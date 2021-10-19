@@ -1,0 +1,16 @@
+﻿1. From https://www.gencodegenes.org/human/release_19.html downloaded gencode.v19.annotation.gff3.gz and extracted Protein_Coding genes with script:
+extract_gene_regions.py and the output file is protein_coding_gene_regions.txt
+2. downloaded gene and alias file from ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/GENE_INFO/Mammalia/Homo_sapiens.gene_info.gz to build a gene_alias_database.txt, so if a gene not could not be find in the db, its aliases oculd be searched.
+3. downloaded http://dgv.tcag.ca/dgv/app/downloads?ref=GRCh37/hg19 DGV Gold Standard Variants_2016-05-15
+ wget http://dgv.tcag.ca/dgv/docs/DGV.GS.March2016.50percent.GainLossSep.Final.hg19.gff3
+4. downloaded decipher CNV data using wget https://decipher.sanger.ac.uk/files/downloads/population_cnv.txt.gz, however, the team decided to use in house data from /home/bioadmin/YingyingXia/bin/CHD/DatabaseAnn/Decipher_Patient_Info_E2C.txt, which was said to be scraped from web.
+5. downloaded wget https://storage.googleapis.com/gnomad-public/papers/2019-sv/gnomad_v2.1_sv.sites.vcf.gz 
+6. cp /home/bioinfo/database/intervardb/PVS1.LOF.genes.hg19 . 
+7. wget ftp://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/H_sapiens/ARCHIVE/ANNOTATION_RELEASE.105/GFF/ref_GRCh37.p13_top_level.gff3.gz
+8. Get ClinGen curated files from FTP.
+    wget ftp://ftp.ncbi.nlm.nih.gov/pub/dbVar/clingen/ClinGen_gene_curation_list_GRCh37.tsv
+    wget ftp://ftp.ncbi.nlm.nih.gov/pub/dbVar/clingen/ClinGen_haploinsufficiency_gene_GRCh37.bed
+    wget ftp://ftp.ncbi.nlm.nih.gov/pub/dbVar/clingen/ClinGen_recurrent_CNV_V1.0-hg19.bed
+    wget ftp://ftp.ncbi.nlm.nih.gov/pub/dbVar/clingen/ClinGen_region_curation_list_GRCh37.tsv
+    wget ftp://ftp.ncbi.nlm.nih.gov/pub/dbVar/clingen/ClinGen_triplosensitivity_gene_GRCh37.bed
+

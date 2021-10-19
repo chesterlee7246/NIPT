@@ -1,0 +1,3 @@
+[submodule "cnv-anno"]
+	path = cnv-anno
+	url = git@172.16.10.36:basecare-workflow2/cnv-anno.git

@@ -1,0 +1,1 @@
+../Lib/Autosomal_Mean_SD_Nor_2Mb.txt

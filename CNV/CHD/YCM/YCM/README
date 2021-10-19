@@ -1,0 +1,60 @@
+**1. 测试环境为Ubuntu12.04 LTS，理论上在Ubuntu12.04及以上可以安装依赖软件(10.04 GLIBC版本低，某些R包无法编译通过)。**
+##一、第三方软件
+###1. R(>=3.3.2)
+必需的包文件
+```
+ggplot2
+optparse
+plyr
+stringr
+DNAcopy
+ggthemes #remove from iris
+grid #iris(arrow)
+```
+```
+install.packages(c("optparse","plyr","stringr","ggplot2","ggthemes"))
+source("http://bioconductor.org/biocLite.R")
+biocLite("DNAcopy")
+```
+###2. Perl(>=5.14)
+必需的模块
+```
+Cwd
+Getopt::Long
+File::Basename
+Data::Dump
+```
+###3. svmlib(>=3.21)
+```
+git clone https://github.com/cjlin1/libsvm.git
+```
+
+###4. samtools(>=1.2)
+```
+wget https://github.com/samtools/samtools/releases/download/1.3.1/samtools-1.3.1.tar.bz2
+```
+###5. bedtools(>=2.24)
+```
+wget https://github.com/arq5x/bedtools2/releases/download/v2.26.0/bedtools-2.26.0.tar.gz
+```
+##二、程序使用
+###1. 程序使用方法
+输入文件为bam格式，输出目录由`--outdir`指定，`--region`指定的是png图片区域，默认为YS，不包含异染色体区域，AZF指的是从AZFa到AZFc，而AZFBC指的是AZFb+c区域。
+`--fortmat` 指定输入文件格式，目前仅支持bed与bam格式输入文件
+`--name` 指定输出结果文件的前缀，`name.txt`存储AFZc区域缺失类型SVM预测结果，`name.log`存储非重复区域缺失区域。如果缺失发生在AFZc区域（含AZFb缺失），缺失结果以`name.txt`为准，否则以`name.log`里的坐标为缺失范围。
+由于AZFbc部分缺失比较特殊，需要根据散点图进行最终确认。
+```
+perl  /home/ionadmin/JunZhang/local/YCM/scripts/YCM.pl --sample sample.bam --outdir ./ --name <prefix of output bam> --control /home/ionadmin/JunZhang/local/YCM/data/control/control.txt  --svm_out out.txt --region YS
+```
+###2. bed转bam
+如果待检测文件为bed文件，则需要将bed转为bam文件。
+```
+bedtools  bedtobam -i *.bed  -g /home/ionadmin/JunZhang/local/YCM/data/hg19.sizes  >out.bam
+samtools sort  -o out.sorted.bam out.bam
+samtools index out.sorted.bam
+```
+###3. 批处理bed文件
+将bed文件及index2id.txt放入同一个目录内，可以使用批处理脚本处理这个目录内的所有文件，输出文件默认在当前目录，也可以指定输出目录。
+```
+bash scripts/batch.sh YCM_DIR  OUT_DIR
+```

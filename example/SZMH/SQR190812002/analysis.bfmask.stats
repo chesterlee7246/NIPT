@@ -1,0 +1,27 @@
+[global]
+Start Row = 0
+Start Column = 0
+Width = 15456
+Height = 10656
+Total Wells = 164699136
+Excluded Wells = 13159848
+Empty Wells = 6492467
+Pinned Wells = 371707
+Ignored Wells = 2502119
+Bead Wells = 142172995
+Dud Beads = 89436
+Reference Beads = 4709636
+Live Beads = 142083559
+Test Fragment Beads = 693791
+Library Beads = 141389768
+Percent Template-Positive Library Beads = 99.94
+TF Filtered Beads (read too short) = 0
+TF Filtered Beads (fail keypass) = 0
+TF Filtered Beads (too many positive flows) = 0
+TF Filtered Beads (poor signal fit) = 0
+TF Validated Beads = 0
+Lib Filtered Beads (read too short) = 0
+Lib Filtered Beads (fail keypass) = 1259536
+Lib Filtered Beads (too many positive flows) = 32863490
+Lib Filtered Beads (poor signal fit) = 760616
+Lib Validated Beads = 0

@@ -1,0 +1,1 @@
+../Lib/hg19_20kb_bin.txt

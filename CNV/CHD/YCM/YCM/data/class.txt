@@ -1,0 +1,16 @@
+#code	status	count	region	size
+0       OK      1053    0       0
+1       AZFb    1       chrY:20060000-26280000  6.20Mb
+2       b1/b3del       2       chrY:24070000-25680000  1.60Mb
+3       b2/b3del       43      chrY:24800000-24890000;chrY:25680000-27430000   1.80Mb
+4       b2/b3dup       8       chrY:24800000-24890000;chrY:25680000-27430000   1.80Mb
+5       AZFcdup        3       chrY:24650000-28130000  3.50Mb
+6       b5/b6dup       3
+7       gr/grdel       75      chrY:24890000-26520000  1.60Mb
+8       gr/grdel+b2/b4dup     2
+9       gr/grdup       16      chrY:24890000-26520000  1.60Mb
+10      gr/grfour      1       chrY:24890000-26520000  1.60Mb
+11      gr/grtrio      1       chrY:24890000-26520000  1.60Mb
+12      P5P4dup        1
+13      AZFcdel        8       chrY:24650000-28130000  3.50Mb
+14      b1/b2del       4       chrY:24070000-24650000  580K

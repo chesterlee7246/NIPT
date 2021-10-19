@@ -1,0 +1,67 @@
+Chrom	Start	End	type	NameCN	NameEN	Clinical_Synopsis	Reference
+1	10001	12780116	deletion		1p36 microdeletion syndrome	Delayed cranial suture closure/Pointed chin/Deeply set eye/Intellectual disability/Seizures/Muscular hypotonia	
+1	147061832	148411223	deletion		1q21.1 recurrent microdeletion (susceptibility locus for neurodevelopmental disorders)	Microcephaly/Intellectual disability	
+1	145686997	146048497	deletion		1q21.1 susceptibility locus for Thrombocytopenia-Absent Radius (TAR) syndrome		
+1	147061832	148411223	duplication		1q21.1 recurrent microduplication (possible susceptibility locus for neurodevelopmental disorders)	Autism/Intellectual disability	
+2	239048167	239400949	deletion		2q37 monosomy	Thin upper lip vermilion/Round face/Deeply set eye/Brachydactyly syndrome/Intellectual disability	
+2	196060397	204342216	deletion		2q33.1 deletion syndrome	Inguinal hernia/Cleft palate/High palate/Behavioural/Psychiatric Abnormality/Intellectual disability/Seizures/Short stature/Feeding difficulties in infancy	
+2	44183312	44362445	deletion		2p21 Microdeletion Syndrome		
+2	59058561	61592680	deletion		2p15-16.1 microdeletion syndrome	Abnormality of the palate/Microcephaly/Cranial asymmetry/Abnormality of the philtrum/Downslanted palpebral fissures/Telecanthus/Ptosis/Delayed speech and language development/Intellectual disability/Global developmental delay/Abnormal nasal morphology/Prominent epicanthal folds/Abnormality of digit/Central hypotonia/Feeding difficulties	
+3	195999964	197617792	duplication		3q29 microduplication syndrome		
+3	195999964	197617792	deletion		3q29 microdeletion syndrome	Long face/Short philtrum/Prominent nasal bridge/Intellectual disability	
+4	1567470	2108509	deletion		Wolf-Hirschhorn Syndrome	Microcephaly/Intellectual disability/Seizures/Muscular hypotonia/Small for gestational age	
+5	10001	12533192	deletion		Cri du Chat Syndrome (5p deletion)	Microcephaly/Intellectual disability/Weak, high-pitched voice	
+5	126776622	126837020	duplication		Adult-onset autosomal dominant leukodystrophy (ADLD)	Leukodystrophy/Dysautonomia/Abnormality of pyramidal motor function/Peripheral demyelination	
+5	176297633	177625115	deletion		Sotos syndrome	Tall stature/Macrocephaly/Mandibular prognathia/Intellectual disability/Accelerated skeletal maturation	
+5	112707504	112846239	deletion		Familial Adenomatous Polyposis	Neoplasm of the colon	
+7	96688766	96709891	deletion		Split hand/foot malformation 1 (SHFM1)	Abnormality of the genital system/Abnormality of the urinary system/Median cleft lip/Cleft palate/Sensorineural hearing impairment/Ectrodactyly (hands)/Toe syndactyly/Ectrodactyly (feet)/2-3 toe syndactyly/Lacrimal duct aplasia/Cutaneous finger syndactyly	
+7	73330452	74728334	deletion		Williams-Beuren Syndrome (WBS)	Everted lower lip vermilion/Malar flattening/Microdontia/Short attention span/Intellectual disability/Aortic valve stenosis/Short stature	
+7	73330452	74728334	duplication		7q11.23 duplication syndrome	Short attention span/Delayed speech and language development/Intellectual disability	
+8	8242533	11907120	deletion		8p23.1 deletion syndrome	Cryptorchidism/Hyperactivity/Congenital diaphragmatic hernia/Intellectual disability/Abnormality of the heart/Defect in the atrial septum/Atrioventricular canal defect	
+8	76314229	76854003	deletion		8q21.11 Microdeletion Syndrome	High forehead/Ptosis/Full cheeks/Round face/Opacification of the corneal stroma/Short philtrum/Exaggerated cupid's bow/Downturned corners of mouth/Micrognathia/Low-set ears/Prominent ears/Intellectual disability	
+8	8242533	11907120	duplication		8p23.1 duplication syndrome	Delayed speech and language development/Intellectual disability/Abnormal facial shape/Malformation of the heart and great vessels/Behavioural/Psychiatric Abnormality	
+9	137618991	137836126	deletion		9q subtelomeric deletion syndrome	Microcephaly/Anteverted nares/Synophrys/Intellectual disability/Muscular hypotonia/Abnormality of the heart/Short nose/Protruding tongue/Midface retrusion	
+11	31784791	32435541	deletion		WAGR 11p13 deletion syndrome	Aniridia/Intellectual disability/Renal neoplasm/Abnormality of the male genitalia	
+11	43973250	46030899	deletion		Potocki-Shaffer syndrome	Delayed cranial suture closure/Intellectual disability/Parietal foramina/Multiple exostoses/Abnormality of the male genitalia	
+12	64678139	68251745	deletion		12q14 microdeletion syndrome	Intellectual disability/Proportionate short stature/Osteopoikilosis	
+15	23123715	28193120	deletion		Prader-Willi syndrome (Type 1)	Hypogonadism/Intellectual disability/Muscular hypotonia/Truncal obesity/Feeding difficulties in infancy	
+15	23374765	28193120	deletion		Angelman syndrome (Type 2)	Microcephaly/Intellectual disability/Seizures/Truncal ataxia/EEG abnormality	
+15	23374765	28193120	deletion		Prader-Willi Syndrome (Type 2)	Hypogonadism/Intellectual disability/Muscular hypotonia/Truncal obesity/Feeding difficulties in infancy	
+15	30618103	32153206	deletion		15q13.3 microdeletion syndrome	Abnormality of the face/Intellectual disability/Seizures	
+15	23123715	28193120	deletion		Angelman syndrome (Type 1)	Microcephaly/Intellectual disability/Seizures/Truncal ataxia/EEG abnormality	
+15	74120302	75680570	deletion		15q24 recurrent microdeletion syndrome	Hypospadias/Microcephaly/Abnormality of the face/Intellectual disability/Joint laxity/Small for gestational age/Short stature	
+15	98814741	101981189	duplication		15q26 overgrowth syndrome	Abnormality of the kidney/Tall stature/Intellectual disability	
+16	21463739	29272756	duplication		16p11.2-p12.2 microduplication syndrome	Intellectual disability/Short Stature/Microcephaly/Autism/Abnormal facial shape/Global developmental delay	
+16	10001	784372	deletion		ATR-16 syndrome	Intellectual disability/Abnormality of erythrocytes	
+16	3725054	3880120	deletion		Rubinstein-Taybi Syndrome		
+16	21500741	30188533	deletion		16p11.2-p12.2 microdeletion syndrome	Abnormality of the face/Pointed chin/Intellectual disability/Feeding difficulties in infancy	
+16	14892827	16392827	duplication		16p13.11 recurrent microduplication (neurocognitive disorder susceptibility locus)   		
+16	21935203	22455963	deletion		Recurrent 16p12.1 microdeletion (neurodevelopmental susceptibility locus)	Microcephaly/Delayed speech and language development/Intellectual disability	
+16	14892827	16392827	deletion		16p13.11 recurrent microdeletion (neurocognitive disorder susceptibility locus)		
+16	29595531	30188534	duplication		16p11.2 microduplication syndrome		
+17	30780079	31936302	deletion		NF1-microdeletion syndrome	Coarse facial features/Hypertelorism/Cafe-au-lait spot/Neurofibromas/Intellectual disability/Abnormality of the heart	
+17	150208	2685615	deletion		Miller-Dieker syndrome (MDS)	Microcephaly/Lissencephaly/Abnormality of the heart/Frontal bossing/Midface retrusion	
+17	16869758	20318836	duplication		Potocki-Lupski syndrome (17p11.2 duplication syndrome)	Autism/Short attention span/Hyperactivity/Short stature	
+17	36459259	37856298	deletion		RCAD (renal cysts and diabetes)	Diabetes mellitus/Abnormality of the liver/Multiple renal cysts	
+17	14194598	15567589	deletion		Hereditary Liability to Pressure Palsies (HNPP)	Abnormality of the motor neurons/Motor conduction block	
+17	14194598	15567589	duplication		Charcot-Marie-Tooth syndrome type 1A (CMT1A)	Pes cavus/Abnormality of the motor neurons/Impaired vibratory sensation/Hypertrophic nerve changes/Decreased motor nerve conduction velocity/Impaired pain sensation/Impaired temperature sensation/Impaired proprioception	
+17	16869758	20318836	deletion		Smith-Magenis Syndrome	Stereotypic behavior/Self-mutilation/Hyperactivity/Brachydactyly syndrome/Intellectual disability/Muscular hypotonia/Hoarse voice/Sleep disturbance/Short stature	
+17	45627800	46217040	deletion		17q21.31 recurrent microdeletion syndrome (Koolen de Vries syndrome)	Long face/Intellectual disability/Muscular hypotonia/Small for gestational age/Feeding difficulties in infancy	
+21	25880549	26171128	duplication		Early-onset Alzheimer disease with cerebral amyloid angiopathy	Dementia/Neurofibrillary tangles/Senile plaques	
+22	19022279	21098156	duplication		22q11 duplication syndrome	Telecanthus/Intellectual disability/Nasal speech	
+22	1	18527801	duplication		Cat-Eye Syndrome (Type I)	Micrognathia/Preauricular skin tag/Downslanted palpebral fissures/Iris coloboma/Intellectual disability/Abnormality of the heart/Anal atresia/Short stature/Preauricular pit	
+22	50607088	50749416	deletion		22q13 deletion syndrome (Phelan-Mcdermid syndrome)	Autism/Delayed speech and language development/Hyperactivity/Intellectual disability/Muscular hypotonia	
+22	21562828	23380258	deletion		22q11.2 distal deletion syndrome	Abnormality of the face/Intellectual disability/Small for gestational age/Short stature	
+22	19022279	21098156	deletion		22q11 deletion syndrome (Velocardiofacial / DiGeorge syndrome)	Delayed speech and language development/Nasal speech/Abnormality of the heart/Hypocalcemia/T lymphocytopenia	
+X	6537771	8165154	deletion		Steroid sulphatase deficiency (STS)	Ichthyosiform abnormality of the skin	
+X	499823	793142	deletion		Leri-Weill dyschondrostosis (LWD) - SHOX deletion	Radial bowing/Madelung deformity/Limited pronation/supination of forearm/Disproportionate short-limb short stature	
+X	791143	907140	deletion		Leri-Weill dyschondrostosis (LWD) - SHOX deletion	Radial bowing/Madelung deformity/Limited pronation/supination of forearm/Disproportionate short-limb short stature	
+X	103776510	103792618	duplication		Pelizaeus-Merzbacher disease	Nystagmus/Muscular hypotonia/Leukodystrophy/Abnormal CNS myelination	
+X	154021812	154097731	duplication		Xq28 (MECP2) duplication	Delayed speech and language development/Intellectual disability/Seizures/Muscular hypotonia/Spasticity/Recurrent infections	
+X	154396222	154653579	duplication		Xq28 Microduplication		
+X	48476161	52374518	duplication		Xp11.22-p11.23 Microduplication		
+X	53374149	53656331	duplication		Xp11.22-linked intellectual disability	Intellectual disability	
+Y	22831278	25887782	deletion		AZFc	Oligospermia	
+Y	18006165	23919050	deletion		AZFb	Oligospermia	
+Y	17852946	25647683	deletion		AZFb+AZFc	Oligospermia	
+Y	12232056	13042949	deletion		AZFa	Oligospermia	

@@ -1,0 +1,585 @@
+{
+  "expmeta": {
+    "sample": "P31190716002", 
+    "runid": "0MKOD", 
+    "run_name": "R_2019_08_12_01_28_22_user_suzhou02-471-SQR190812002", 
+    "run_flows": 500, 
+    "output_file_name_stem": "R_2019_08_12_01_28_22_user_suzhou02-471-SQR190812002_Auto_user_suzhou02-471-SQR190812002_180", 
+    "run_date": "2019-08-12T08:29:20Z", 
+    "chiptype": "P1.1.17", 
+    "flowOrder": "TACGTACGTCTGAGCATCGATCGATGTACAGC", 
+    "barcodeId": "IonXpress", 
+    "analysis_date": "2019-08-12", 
+    "chipBarcode": "L:QVV560,W:14,X:4,Y:2,N:1,P:20,FC:H2,B:1,CT:P1v3,BC:21DAEL01682*241P1v3,", 
+    "project": "", 
+    "instrument": "suzhou02", 
+    "results_name": "Auto_user_suzhou02-471-SQR190812002_180", 
+    "notes": ""
+  }, 
+  "sampleinfo": {
+    "C190805037": {
+      "displayedName": "C190805037", 
+      "description": "", 
+      "externalId": "", 
+      "name": "C190805037", 
+      "attributes": {}
+    }, 
+    "C190805036": {
+      "displayedName": "C190805036", 
+      "description": "", 
+      "externalId": "", 
+      "name": "C190805036", 
+      "attributes": {}
+    }, 
+    "C190805035": {
+      "displayedName": "C190805035", 
+      "description": "", 
+      "externalId": "", 
+      "name": "C190805035", 
+      "attributes": {}
+    }, 
+    "C190805034": {
+      "displayedName": "C190805034", 
+      "description": "", 
+      "externalId": "", 
+      "name": "C190805034", 
+      "attributes": {}
+    }, 
+    "C190805024": {
+      "displayedName": "C190805024", 
+      "description": "", 
+      "externalId": "", 
+      "name": "C190805024", 
+      "attributes": {}
+    }, 
+    "C190805032": {
+      "displayedName": "C190805032", 
+      "description": "", 
+      "externalId": "", 
+      "name": "C190805032", 
+      "attributes": {}
+    }, 
+    "C190805031": {
+      "displayedName": "C190805031", 
+      "description": "", 
+      "externalId": "", 
+      "name": "C190805031", 
+      "attributes": {}
+    }, 
+    "C190805027": {
+      "displayedName": "C190805027", 
+      "description": "", 
+      "externalId": "", 
+      "name": "C190805027", 
+      "attributes": {}
+    }, 
+    "C190805039": {
+      "displayedName": "C190805039", 
+      "description": "", 
+      "externalId": "", 
+      "name": "C190805039", 
+      "attributes": {}
+    }, 
+    "C190805040": {
+      "displayedName": "C190805040", 
+      "description": "", 
+      "externalId": "", 
+      "name": "C190805040", 
+      "attributes": {}
+    }, 
+    "C190805041": {
+      "displayedName": "C190805041", 
+      "description": "", 
+      "externalId": "", 
+      "name": "C190805041", 
+      "attributes": {}
+    }, 
+    "C190731037": {
+      "displayedName": "C190731037", 
+      "description": "", 
+      "externalId": "", 
+      "name": "C190731037", 
+      "attributes": {}
+    }, 
+    "N31190716001": {
+      "displayedName": "N31190716001", 
+      "description": "", 
+      "externalId": "", 
+      "name": "N31190716001", 
+      "attributes": {}
+    }, 
+    "C190805033": {
+      "displayedName": "C190805033", 
+      "description": "", 
+      "externalId": "", 
+      "name": "C190805033", 
+      "attributes": {}
+    }, 
+    "P31190716002": {
+      "displayedName": "P31190716002", 
+      "description": "", 
+      "externalId": "", 
+      "name": "P31190716002", 
+      "attributes": {}
+    }
+  }, 
+  "chefSummary": {}, 
+  "pluginconfig": {}, 
+  "datamanagement": {
+    "Basecalling Input": true, 
+    "Intermediate Files": true, 
+    "Output Files": true, 
+    "Signal Processing Input": true
+  }, 
+  "runinfo": {
+    "testfrag_key": "ATCG", 
+    "url_root": "/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156", 
+    "chipType": "P1.1.17", 
+    "library": "hg19", 
+    "sigproc_dir": "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/sigproc_results", 
+    "pluginresult": 246, 
+    "api_url": "http://1W3YP22.1W3YP22/rundb/api", 
+    "barcodeId": "IonXpress", 
+    "results_dir": "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/plugin_out/NIPT_CHD_Temp_out.246", 
+    "platform": "proton", 
+    "pk": 156, 
+    "alignment_dir": "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156", 
+    "api_key": "d75dcb5a5c3ab0954e4885bae8b68dfa5cd3e0ba", 
+    "basecaller_dir": "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/basecaller_results", 
+    "net_location": "http://1W3YP22.1W3YP22", 
+    "username": "ionadmin", 
+    "library_key": "TCAG", 
+    "systemType": "proton", 
+    "plugin_name": "NIPT_CHD_Temp", 
+    "tmap_version": "tmap-f3", 
+    "report_root_dir": "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156", 
+    "plugin": {
+      "pluginresult": 246, 
+      "hold_jid": [], 
+      "name": "NIPT_CHD_Temp", 
+      "runtypes": [
+        "composite", 
+        "wholechip", 
+        "thumbnail"
+      ], 
+      "pluginconfig": {}, 
+      "depends": [], 
+      "runlevels": [
+        "default"
+      ], 
+      "planning_version": "2.0", 
+      "results_dir": "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/plugin_out/NIPT_CHD_Temp_out.246", 
+      "userInput": "", 
+      "version": "2.0", 
+      "path": "/results/plugins/NIPT_CHD_Temp", 
+      "id": 35, 
+      "features": []
+    }, 
+    "chipDescription": "PI", 
+    "plugin_dir": "/results/plugins/NIPT_CHD_Temp", 
+    "raw_data_dir": "/rawdata/suzhou02/R_2019_08_12_01_28_22_user_suzhou02-471-SQR190812002", 
+    "analysis_dir": "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156"
+  }, 
+  "plan": {
+    "planName": "SQR190812002", 
+    "username": "ionadmin", 
+    "sequencekitname": "IonProtonIHiQ", 
+    "librarykitname": "Ion Xpress Plus Fragment Library Kit", 
+    "sampleGrouping": null, 
+    "sseBedFile": "", 
+    "barcodeId": "IonXpress", 
+    "controlSequencekitname": null, 
+    "regionfile": "", 
+    "applicationGroup_id": 1, 
+    "runMode": "single", 
+    "bedfile": "", 
+    "templatingKitName": "Ion PI Hi-Q OT2 200 Kit", 
+    "samplePrepKitName": "", 
+    "runType": "GENS", 
+    "runTypeDescription": "Generic Sequencing", 
+    "reverse_primer": null, 
+    "threePrimeAdapter": "ATCACCGACTGCCCATAGAGAGGCTGAGAC", 
+    "barcodedSamples": {
+      "C190805037": {
+        "barcodeSampleInfo": {
+          "IonXpress_008": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_008"
+        ]
+      }, 
+      "C190805036": {
+        "barcodeSampleInfo": {
+          "IonXpress_007": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_007"
+        ]
+      }, 
+      "C190805035": {
+        "barcodeSampleInfo": {
+          "IonXpress_006": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_006"
+        ]
+      }, 
+      "C190805034": {
+        "barcodeSampleInfo": {
+          "IonXpress_005": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_005"
+        ]
+      }, 
+      "C190805033": {
+        "barcodeSampleInfo": {
+          "IonXpress_004": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_004"
+        ]
+      }, 
+      "C190805032": {
+        "barcodeSampleInfo": {
+          "IonXpress_003": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_003"
+        ]
+      }, 
+      "C190805031": {
+        "barcodeSampleInfo": {
+          "IonXpress_002": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_002"
+        ]
+      }, 
+      "C190805027": {
+        "barcodeSampleInfo": {
+          "IonXpress_009": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_009"
+        ]
+      }, 
+      "C190805039": {
+        "barcodeSampleInfo": {
+          "IonXpress_010": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_010"
+        ]
+      }, 
+      "C190805040": {
+        "barcodeSampleInfo": {
+          "IonXpress_011": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_011"
+        ]
+      }, 
+      "C190805041": {
+        "barcodeSampleInfo": {
+          "IonXpress_012": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_012"
+        ]
+      }, 
+      "C190731037": {
+        "barcodeSampleInfo": {
+          "IonXpress_001": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_001"
+        ]
+      }, 
+      "N31190716001": {
+        "barcodeSampleInfo": {
+          "IonXpress_063": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_063"
+        ]
+      }, 
+      "C190805024": {
+        "barcodeSampleInfo": {
+          "IonXpress_015": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_015"
+        ]
+      }, 
+      "P31190716002": {
+        "barcodeSampleInfo": {
+          "IonXpress_064": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_064"
+        ]
+      }
+    }, 
+    "sampleTubeLabel": ""
+  }, 
+  "runplugin": {
+    "run_type": "composite", 
+    "block_dirs": [
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X11592_Y1332", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X3864_Y0", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X1288_Y0", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X0_Y0", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X9016_Y0", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X7728_Y0", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X6440_Y0", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X11592_Y0", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X6440_Y9324", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X2576_Y6660", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X2576_Y9324", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X0_Y9324", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X10304_Y7992", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X11592_Y9324", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X12880_Y0", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X3864_Y9324", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X2576_Y1332", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X3864_Y1332", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X5152_Y1332", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X6440_Y1332", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X14168_Y0", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X1288_Y1332", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X7728_Y1332", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X9016_Y1332", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X5152_Y7992", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X3864_Y5328", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X12880_Y9324", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X14168_Y9324", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X7728_Y9324", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X9016_Y9324", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X10304_Y9324", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X6440_Y5328", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X12880_Y6660", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X10304_Y5328", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X1288_Y9324", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X1288_Y6660", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X3864_Y6660", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X6440_Y6660", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X5152_Y6660", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X9016_Y6660", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X7728_Y6660", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X10304_Y6660", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X2576_Y0", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X1288_Y5328", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X5152_Y0", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X0_Y7992", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X0_Y6660", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X14168_Y6660", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X6440_Y7992", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X2576_Y7992", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X3864_Y7992", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X7728_Y7992", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X9016_Y7992", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X10304_Y0", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X11592_Y6660", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X14168_Y3996", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X11592_Y3996", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X10304_Y3996", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X9016_Y3996", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X7728_Y3996", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X6440_Y3996", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X0_Y5328", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X5152_Y3996", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X14168_Y7992", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X12880_Y7992", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X12880_Y3996", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X12880_Y5328", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X14168_Y5328", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X2576_Y3996", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X2576_Y5328", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X5152_Y5328", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X3864_Y3996", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X7728_Y5328", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X9016_Y5328", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X11592_Y5328", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X1288_Y3996", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X11592_Y7992", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X10304_Y2664", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X11592_Y2664", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X9016_Y2664", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X5152_Y2664", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X1288_Y7992", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X1288_Y2664", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X0_Y2664", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X10304_Y1332", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X14168_Y1332", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X12880_Y1332", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X5152_Y9324", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X2576_Y2664", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X6440_Y2664", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X0_Y3996", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X12880_Y2664", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X14168_Y2664", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X0_Y1332", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X7728_Y2664", 
+      "/results/analysis/output/Home/Auto_user_suzhou02-471-SQR190812002_180_156/block_X3864_Y2664"
+    ], 
+    "blockId": "", 
+    "runlevel": "default", 
+    "numBlocks": 96, 
+    "run_mode": "pipeline"
+  }, 
+  "globalconfig": {
+    "debug": 0, 
+    "MEM_MAX": "15G"
+  }
+}

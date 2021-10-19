@@ -1,0 +1,15 @@
+{
+   "Adapters" : {
+      "Adapter_0" : {
+         "duplicate_reads" : 1099985.0,
+         "fraction_duplicates" : 0.1670127927470517,
+         "total_reads" : 6586231.0
+      }
+   },
+   "duplicate_reads" : 1099985,
+   "fraction_duplicates" : 0.1670127927470517,
+   "fraction_with_adaptor" : 0.9337085301580631,
+   "reads_with_adaptor" : 6149621,
+   "total_mapped_reads" : 6586231,
+   "total_reads" : 6612035
+}

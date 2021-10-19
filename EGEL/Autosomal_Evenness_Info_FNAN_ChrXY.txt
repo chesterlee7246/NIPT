@@ -1,0 +1,1 @@
+../Lib/Autosomal_Evenness_Info_FNAN_ChrXY.txt

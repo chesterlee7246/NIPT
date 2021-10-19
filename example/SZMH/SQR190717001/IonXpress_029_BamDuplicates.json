@@ -1,0 +1,8 @@
+{
+   "duplicate_reads" : 443307,
+   "fraction_duplicates" : 0.1284171367688986,
+   "fraction_with_adaptor" : 0.9861634385701863,
+   "reads_with_adaptor" : 3404321,
+   "total_mapped_reads" : 3452085,
+   "total_reads" : 3464977
+}

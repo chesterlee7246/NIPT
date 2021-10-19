@@ -1,0 +1,8 @@
+DGV.GS.March2016.50percent.GainLossSep.Final.hg19.gff3.gz filter=lfs diff=lfs merge=lfs -text
+gencode.v19.annotation.gff3.gz filter=lfs diff=lfs merge=lfs -text
+gnomad_v2.1_sv.sites.vcf_hg19.gz filter=lfs diff=lfs merge=lfs -text
+Homo_sapiens.gene_info.gz filter=lfs diff=lfs merge=lfs -text
+population_cnv_decipher_hg19.txt.gz filter=lfs diff=lfs merge=lfs -text
+PVS1.LOF.genes.hg19 filter=lfs diff=lfs merge=lfs -text
+ref_GRCh37.p13_top_level.gff3.gz filter=lfs diff=lfs merge=lfs -text
+Decipher_Patient_Info_E2C.txt filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,15 @@
+#Site	From_mail	To_name	To_mail	CC_mail
+NanTong	gu464@basecare.com.cn	张军	zhang109@basecare.cn	lv386@basecare.com.cn,gu464@basecare.com.cn,liao426@basecare.cn,zhang610@basecare.com.cn,li806@basecare.cn
+XuZhou	gu464@basecare.com.cn	张军	zhang109@basecare.cn	lv386@basecare.com.cn,gu464@basecare.com.cn,liao426@basecare.cn,zhang610@basecare.com.cn,li806@basecare.cn
+LinYi	gu464@basecare.com.cn	张军	zhang109@basecare.cn	lv386@basecare.com.cn,gu464@basecare.com.cn,liao426@basecare.cn,zhang610@basecare.com.cn,li806@basecare.cn
+ShengJing	gu464@basecare.com.cn	张军	zhang109@basecare.cn	lv386@basecare.com.cn,gu464@basecare.com.cn,liao426@basecare.cn,zhang610@basecare.com.cn,li806@basecare.cn
+JiaYin	gu464@basecare.com.cn	张军	zhang109@basecare.cn	lv386@basecare.com.cn,gu464@basecare.com.cn,liao426@basecare.cn,zhang610@basecare.com.cn,li806@basecare.cn
+BJBK	gu464@basecare.com.cn	张军	zhang109@basecare.cn	lv386@basecare.com.cn,gu464@basecare.com.cn,liao426@basecare.cn,zhang610@basecare.com.cn,li806@basecare.cn
+SZMH	gu464@basecare.com.cn	张军	zhang109@basecare.cn	lv386@basecare.com.cn,gu464@basecare.com.cn,liao426@basecare.cn,zhang610@basecare.com.cn,li806@basecare.cn
+NNFY	gu464@basecare.com.cn	张军	zhang109@basecare.cn	lv386@basecare.com.cn,gu464@basecare.com.cn,liao426@basecare.cn,zhang610@basecare.com.cn,li806@basecare.cn
+BIOINFO_TEST	gu464@basecare.com.cn	张军	zhang109@basecare.cn	lv386@basecare.com.cn,gu464@basecare.com.cn,liao426@basecare.cn,zhang610@basecare.com.cn,li806@basecare.cn
+Test	gu464@basecare.com.cn	张军	zhang109@basecare.cn	gu464@basecare.cn
+SYTH	gu464@basecare.com.cn	张军	zhang109@basecare.cn	lv386@basecare.com.cn,gu464@basecare.com.cn,liao426@basecare.cn,zhang610@basecare.com.cn,li806@basecare.cn
+SHRJ	gu464@basecare.com.cn	张军	zhang109@basecare.cn	lv386@basecare.com.cn,gu464@basecare.com.cn,liao426@basecare.cn,zhang610@basecare.com.cn,li806@basecare.cn
+WFYX	gu464@basecare.com.cn	张军	zhang109@basecare.cn	lv386@basecare.com.cn,gu464@basecare.com.cn,liao426@basecare.cn,zhang610@basecare.com.cn,li806@basecare.cn
+SZDSLH	gu464@basecare.com.cn	张军	zhang109@basecare.cn	lv386@basecare.com.cn,gu464@basecare.com.cn,liao426@basecare.cn,zhang610@basecare.com.cn,li806@basecare.cn

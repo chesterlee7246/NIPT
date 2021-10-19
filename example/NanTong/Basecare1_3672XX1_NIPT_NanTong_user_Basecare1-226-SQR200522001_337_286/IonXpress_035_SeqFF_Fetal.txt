@@ -1,0 +1,5 @@
+"","x"
+"SeqFF",NA
+"Enet",NA
+"WRSC",-0.206495392879826
+"PROTON",NA

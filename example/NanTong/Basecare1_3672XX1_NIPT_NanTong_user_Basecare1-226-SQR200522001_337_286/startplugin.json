@@ -1,0 +1,535 @@
+{
+  "expmeta": {
+    "sample": "12C200518010", 
+    "runid": "2TAUX", 
+    "run_name": "R_2020_05_25_15_45_22_user_Basecare1-226-SQR200522001", 
+    "run_flows": 500, 
+    "output_file_name_stem": "R_2020_05_25_15_45_22_user_Basecare1-226-SQR200522001_Auto_user_Basecare1-226-SQR200522001_337", 
+    "run_date": "2020-05-25T08:41:51Z", 
+    "chiptype": "P1.1.17", 
+    "flowOrder": "TACGTACGTCTGAGCATCGATCGATGTACAGC", 
+    "barcodeId": "IonXpress", 
+    "analysis_date": "2020-05-25", 
+    "chipBarcode": "L:Q03H26,W:20,X:5,Y:6,N:4,N:1,P:32,FC:H2,B:1,CT:P1v3,BC:21DAFG02048*241P1v3,", 
+    "project": "SampleData", 
+    "instrument": "Basecare1", 
+    "results_name": "Auto_user_Basecare1-226-SQR200522001_337", 
+    "notes": ""
+  }, 
+  "sampleinfo": {
+    "3E200520008": {
+      "displayedName": "3E200520008", 
+      "description": "Deafness", 
+      "externalId": "", 
+      "name": "3E200520008", 
+      "attributes": {}
+    }, 
+    "3E200520009": {
+      "displayedName": "3E200520009", 
+      "description": "Deafness", 
+      "externalId": "", 
+      "name": "3E200520009", 
+      "attributes": {}
+    }, 
+    "12C200511005": {
+      "displayedName": "12C200511005", 
+      "description": "", 
+      "externalId": "", 
+      "name": "12C200511005", 
+      "attributes": {}
+    }, 
+    "3E200520007": {
+      "displayedName": "3E200520007", 
+      "description": "Deafness", 
+      "externalId": "", 
+      "name": "3E200520007", 
+      "attributes": {}
+    }, 
+    "3P200520010P01": {
+      "displayedName": "3P200520010P01", 
+      "description": "", 
+      "externalId": "", 
+      "name": "3P200520010P01", 
+      "attributes": {}
+    }, 
+    "12C200512006": {
+      "displayedName": "12C200512006", 
+      "description": "", 
+      "externalId": "", 
+      "name": "12C200512006", 
+      "attributes": {}
+    }, 
+    "12C200518009": {
+      "displayedName": "12C200518009", 
+      "description": "", 
+      "externalId": "", 
+      "name": "12C200518009", 
+      "attributes": {}
+    }, 
+    "12C200518008": {
+      "displayedName": "12C200518008", 
+      "description": "", 
+      "externalId": "", 
+      "name": "12C200518008", 
+      "attributes": {}
+    }, 
+    "12C200518014": {
+      "displayedName": "12C200518014", 
+      "description": "", 
+      "externalId": "", 
+      "name": "12C200518014", 
+      "attributes": {}
+    }, 
+    "12C200518013": {
+      "displayedName": "12C200518013", 
+      "description": "", 
+      "externalId": "", 
+      "name": "12C200518013", 
+      "attributes": {}
+    }, 
+    "12C200518012": {
+      "displayedName": "12C200518012", 
+      "description": "", 
+      "externalId": "", 
+      "name": "12C200518012", 
+      "attributes": {}
+    }, 
+    "12C200518011": {
+      "displayedName": "12C200518011", 
+      "description": "", 
+      "externalId": "", 
+      "name": "12C200518011", 
+      "attributes": {}
+    }, 
+    "12C200518010": {
+      "displayedName": "12C200518010", 
+      "description": "", 
+      "externalId": "", 
+      "name": "12C200518010", 
+      "attributes": {}
+    }
+  }, 
+  "chefSummary": {}, 
+  "pluginconfig": {}, 
+  "datamanagement": {
+    "Basecalling Input": true, 
+    "Intermediate Files": true, 
+    "Output Files": true, 
+    "Signal Processing Input": true
+  }, 
+  "runinfo": {
+    "testfrag_key": "ATCG", 
+    "url_root": "/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286", 
+    "chipType": "P1.1.17", 
+    "library": "hg19", 
+    "sigproc_dir": "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/sigproc_results", 
+    "pluginresult": 541, 
+    "api_url": "http://3672XX1/rundb/api", 
+    "barcodeId": "IonXpress", 
+    "results_dir": "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/plugin_out/NIPT_NanTong_out.541", 
+    "platform": "proton", 
+    "pk": 286, 
+    "alignment_dir": "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286", 
+    "api_key": "dbd8b63b26c7fef445eb3cb0d0b522cac1235cdc", 
+    "basecaller_dir": "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/basecaller_results", 
+    "net_location": "http://3672XX1", 
+    "username": "ionadmin", 
+    "library_key": "TCAG", 
+    "systemType": "proton", 
+    "plugin_name": "NIPT_NanTong", 
+    "tmap_version": "tmap-f3", 
+    "report_root_dir": "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286", 
+    "plugin": {
+      "pluginresult": 541, 
+      "hold_jid": [], 
+      "name": "NIPT_NanTong", 
+      "runtypes": [
+        "composite", 
+        "wholechip", 
+        "thumbnail"
+      ], 
+      "pluginconfig": {}, 
+      "depends": [], 
+      "runlevels": [
+        "default"
+      ], 
+      "planning_version": "2.0", 
+      "results_dir": "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/plugin_out/NIPT_NanTong_out.541", 
+      "userInput": "", 
+      "version": "2.0", 
+      "path": "/results/plugins/NIPT_NanTong", 
+      "id": 61, 
+      "features": []
+    }, 
+    "chipDescription": "PI", 
+    "plugin_dir": "/results/plugins/NIPT_NanTong", 
+    "raw_data_dir": "/rawdata/Basecare1/R_2020_05_25_15_45_22_user_Basecare1-226-SQR200522001", 
+    "analysis_dir": "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286"
+  }, 
+  "plan": {
+    "planName": "SQR200522001", 
+    "username": "ionadmin", 
+    "sequencekitname": "IonProtonIHiQ", 
+    "librarykitname": "Ion Xpress Plus Fragment Library Kit", 
+    "sampleGrouping": null, 
+    "sseBedFile": "", 
+    "barcodeId": "IonXpress", 
+    "controlSequencekitname": null, 
+    "regionfile": "", 
+    "applicationGroup_id": 1, 
+    "runMode": "single", 
+    "bedfile": "", 
+    "templatingKitName": "Ion PI Hi-Q OT2 200 Kit", 
+    "samplePrepKitName": "", 
+    "runType": "GENS", 
+    "runTypeDescription": "Generic Sequencing", 
+    "reverse_primer": null, 
+    "threePrimeAdapter": "ATCACCGACTGCCCATAGAGAGGCTGAGAC", 
+    "barcodedSamples": {
+      "3E200520008": {
+        "barcodeSampleInfo": {
+          "IonXpress_035": {
+            "description": "Deafness", 
+            "reference": "mhuman", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_035"
+        ]
+      }, 
+      "3E200520009": {
+        "barcodeSampleInfo": {
+          "IonXpress_036": {
+            "description": "Deafness", 
+            "reference": "mhuman", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_036"
+        ]
+      }, 
+      "12C200511005": {
+        "barcodeSampleInfo": {
+          "IonXpress_005": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_005"
+        ]
+      }, 
+      "3E200520007": {
+        "barcodeSampleInfo": {
+          "IonXpress_034": {
+            "description": "Deafness", 
+            "reference": "mhuman", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_034"
+        ]
+      }, 
+      "3P200520010P01": {
+        "barcodeSampleInfo": {
+          "IonXpress_033": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_033"
+        ]
+      }, 
+      "12C200518008": {
+        "barcodeSampleInfo": {
+          "IonXpress_008": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_008"
+        ]
+      }, 
+      "12C200518009": {
+        "barcodeSampleInfo": {
+          "IonXpress_009": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_009"
+        ]
+      }, 
+      "12C200512006": {
+        "barcodeSampleInfo": {
+          "IonXpress_007": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_007"
+        ]
+      }, 
+      "12C200518014": {
+        "barcodeSampleInfo": {
+          "IonXpress_014": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_014"
+        ]
+      }, 
+      "12C200518013": {
+        "barcodeSampleInfo": {
+          "IonXpress_013": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_013"
+        ]
+      }, 
+      "12C200518012": {
+        "barcodeSampleInfo": {
+          "IonXpress_012": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_012"
+        ]
+      }, 
+      "12C200518011": {
+        "barcodeSampleInfo": {
+          "IonXpress_011": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_011"
+        ]
+      }, 
+      "12C200518010": {
+        "barcodeSampleInfo": {
+          "IonXpress_010": {
+            "description": "", 
+            "reference": "hg19", 
+            "hotSpotRegionBedFile": "", 
+            "nucleotideType": "DNA", 
+            "targetRegionBedFile": "", 
+            "controlSequenceType": "", 
+            "externalId": "", 
+            "controlType": "", 
+            "sseBedFile": ""
+          }
+        }, 
+        "barcodes": [
+          "IonXpress_010"
+        ]
+      }
+    }, 
+    "sampleTubeLabel": ""
+  }, 
+  "runplugin": {
+    "run_type": "composite", 
+    "block_dirs": [
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X11592_Y1332", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X3864_Y0", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X1288_Y0", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X0_Y0", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X9016_Y0", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X7728_Y0", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X6440_Y0", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X11592_Y0", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X6440_Y9324", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X2576_Y6660", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X2576_Y9324", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X0_Y9324", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X10304_Y7992", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X11592_Y9324", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X12880_Y0", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X3864_Y9324", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X2576_Y1332", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X3864_Y1332", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X5152_Y1332", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X6440_Y1332", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X14168_Y0", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X1288_Y1332", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X7728_Y1332", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X9016_Y1332", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X5152_Y7992", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X3864_Y5328", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X12880_Y9324", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X14168_Y9324", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X7728_Y9324", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X9016_Y9324", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X10304_Y9324", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X6440_Y5328", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X12880_Y6660", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X10304_Y5328", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X1288_Y9324", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X1288_Y6660", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X3864_Y6660", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X6440_Y6660", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X5152_Y6660", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X9016_Y6660", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X7728_Y6660", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X10304_Y6660", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X2576_Y0", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X1288_Y5328", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X5152_Y0", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X0_Y7992", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X0_Y6660", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X14168_Y6660", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X6440_Y7992", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X2576_Y7992", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X3864_Y7992", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X7728_Y7992", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X9016_Y7992", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X10304_Y0", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X11592_Y6660", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X14168_Y3996", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X11592_Y3996", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X10304_Y3996", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X9016_Y3996", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X7728_Y3996", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X6440_Y3996", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X0_Y5328", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X5152_Y3996", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X14168_Y7992", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X12880_Y7992", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X12880_Y3996", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X12880_Y5328", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X14168_Y5328", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X2576_Y3996", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X2576_Y5328", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X5152_Y5328", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X3864_Y3996", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X7728_Y5328", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X9016_Y5328", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X11592_Y5328", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X1288_Y3996", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X11592_Y7992", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X10304_Y2664", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X11592_Y2664", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X9016_Y2664", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X5152_Y2664", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X1288_Y7992", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X1288_Y2664", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X0_Y2664", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X10304_Y1332", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X14168_Y1332", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X12880_Y1332", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X5152_Y9324", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X2576_Y2664", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X6440_Y2664", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X0_Y3996", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X12880_Y2664", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X14168_Y2664", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X0_Y1332", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X7728_Y2664", 
+      "/results/analysis/output/Home/Auto_user_Basecare1-226-SQR200522001_337_286/block_X3864_Y2664"
+    ], 
+    "blockId": "", 
+    "runlevel": "default", 
+    "numBlocks": 96, 
+    "run_mode": "pipeline"
+  }, 
+  "globalconfig": {
+    "debug": 0, 
+    "MEM_MAX": "15G"
+  }
+}

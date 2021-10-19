@@ -1,0 +1,5135 @@
+{
+    "read_groups": {
+        "Q1J4H.IonXpress_029": {
+            "index": 29, 
+            "barcode_name": "IonXpress_029", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 469249458, 
+            "barcode_bias": [
+                -0.0579871794309278, 
+                -0.025902786328795127, 
+                0.016493020228604029, 
+                -0.022830384534635793, 
+                -0.0088037205844507336, 
+                0.021166390647587643, 
+                -0.068512757867217972, 
+                -0.10408420989807117, 
+                0.0041861896195398368, 
+                -0.082669779601838994, 
+                0.037308641990839421, 
+                0.0033625648118627877, 
+                -0.029302459469947854, 
+                -0.017363675956985271
+            ], 
+            "read_count": 3464977, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                2911409, 
+                383994, 
+                111649, 
+                40364, 
+                17561
+            ], 
+            "sample": "C190624086", 
+            "barcode_sequence": "TCGACCACTC", 
+            "Q20_bases": 432084848, 
+            "barcode_match_filtered": 6465, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                3414807, 
+                48534, 
+                1636
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_029"
+        }, 
+        "Q1J4H.IonXpress_028": {
+            "index": 28, 
+            "barcode_name": "IonXpress_028", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 623600217, 
+            "barcode_bias": [
+                0.02315385814780219, 
+                0.021513187171570969, 
+                0.010161790321275977, 
+                0.022182618162958342, 
+                0.0026116003272042615, 
+                0.0069579184069818011, 
+                0.0094974707968057508, 
+                0.024850920366605297, 
+                -0.036007436572914865, 
+                -0.065364658051275962, 
+                -0.0071215479971142746, 
+                -0.11592265943861201, 
+                -0.048504570058877317, 
+                -0.047321521602662411
+            ], 
+            "read_count": 4609004, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                3992481, 
+                456478, 
+                125913, 
+                27345, 
+                6787
+            ], 
+            "sample": "C190624056", 
+            "barcode_sequence": "ATCCGGAATC", 
+            "Q20_bases": 577827426, 
+            "barcode_match_filtered": 27540, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                4538591, 
+                65792, 
+                4621
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_028"
+        }, 
+        "Q1J4H.IonXpress_021": {
+            "index": 21, 
+            "barcode_name": "IonXpress_021", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 1, 
+            "total_bases": 9238914, 
+            "barcode_bias": [
+                -0.059224830772535132, 
+                -0.024658068727881368, 
+                0.014163296515581262, 
+                -0.043530266402282872, 
+                0.048791884446303127, 
+                0.023074415288589438, 
+                -0.020545228244664693, 
+                -0.098140693696738196, 
+                0.0050776562470353287, 
+                -0.0090516263803901102, 
+                0.031839016564844738, 
+                -0.18310511437651461, 
+                0.0050453498901498368, 
+                -0.029160770901124684
+            ], 
+            "read_count": 56191, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                40639, 
+                11329, 
+                2771, 
+                1046, 
+                406
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCGCAATTAC", 
+            "Q20_bases": 8332715, 
+            "barcode_match_filtered": 29, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                54573, 
+                1485, 
+                133
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_021"
+        }, 
+        "Q1J4H.IonXpress_020": {
+            "index": 20, 
+            "barcode_name": "IonXpress_020", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 2035, 
+            "barcode_bias": [
+                0.062605979127207931, 
+                -0.05442106326421102, 
+                -0.0165830728597939, 
+                0.033043015593041979, 
+                -0.024976360797882079, 
+                -0.0091035803159078017, 
+                -0.001212134025990963, 
+                -0.08049576282501221, 
+                -0.1151851773262024, 
+                0.11638850371042885, 
+                0.075382407257954281, 
+                -0.055251069863637287, 
+                -0.051034927368164062, 
+                -0.02931317090988159
+            ], 
+            "read_count": 15, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                10, 
+                1, 
+                3, 
+                0, 
+                1
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CAGATCCATC", 
+            "Q20_bases": 1842, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                13, 
+                1, 
+                1
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_020"
+        }, 
+        "Q1J4H.IonXpress_023": {
+            "index": 23, 
+            "barcode_name": "IonXpress_023", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 1, 
+            "total_bases": 44429284, 
+            "barcode_bias": [
+                -0.045821592405526516, 
+                0.039942925396110579, 
+                0.0048420325514787182, 
+                -0.0034800512889343379, 
+                0.031679072188843665, 
+                0.017308036809520335, 
+                -0.060685442689658836, 
+                -0.047689278086839669, 
+                -0.0052236043266162598, 
+                -0.066435044220980316, 
+                -0.0042600381980434556, 
+                0.003531527979583185, 
+                0.0063932624117991098, 
+                -0.047231126766629848
+            ], 
+            "read_count": 274875, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                231926, 
+                29888, 
+                8343, 
+                3365, 
+                1353
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TGCCACGAAC", 
+            "Q20_bases": 40400819, 
+            "barcode_match_filtered": 336, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                267919, 
+                6401, 
+                555
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_023"
+        }, 
+        "Q1J4H.IonXpress_022": {
+            "index": 22, 
+            "barcode_name": "IonXpress_022", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 41497, 
+            "barcode_bias": [
+                -0.074879566266764175, 
+                -0.083203233172952501, 
+                0.0084292874901881285, 
+                -0.0097269504314597844, 
+                -0.0011449464639589559, 
+                -0.047753907345209019, 
+                0.015789528239136659, 
+                0.0085115990874624087, 
+                0.020640713271319656, 
+                -0.088845884842080697, 
+                -0.035396675128397587, 
+                0.033075127599254094, 
+                0.024454458051874524, 
+                -0.027253119557990622
+            ], 
+            "read_count": 283, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                234, 
+                34, 
+                9, 
+                3, 
+                3
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TTCGAGACGC", 
+            "Q20_bases": 37867, 
+            "barcode_match_filtered": 1, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                280, 
+                3, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_022"
+        }, 
+        "Q1J4H.IonXpress_025": {
+            "index": 25, 
+            "barcode_name": "IonXpress_025", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 8668016, 
+            "barcode_bias": [
+                0.03179110600321363, 
+                -0.099609926144677077, 
+                -0.03683045606247673, 
+                -0.03158931027950862, 
+                -0.020056918507305697, 
+                -0.03677764547884501, 
+                0.032454914565740282, 
+                -0.010428024398925911, 
+                -0.049610117486253283, 
+                -0.0047215728029565652, 
+                0.041297172825703291, 
+                -0.0518228442118406, 
+                0.0065292100356273532, 
+                -0.030135919435964553
+            ], 
+            "read_count": 52304, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                44461, 
+                5930, 
+                1351, 
+                397, 
+                165
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CCTGAGATAC", 
+            "Q20_bases": 7784572, 
+            "barcode_match_filtered": 107, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                51599, 
+                656, 
+                49
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_025"
+        }, 
+        "Q1J4H.IonXpress_024": {
+            "index": 24, 
+            "barcode_name": "IonXpress_024", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 520012078, 
+            "barcode_bias": [
+                0.029650732342001117, 
+                0.034543760604276059, 
+                0.01582366140635634, 
+                0.018702098567103989, 
+                -0.03155127494097016, 
+                0.016380140989828238, 
+                -0.11522969666403615, 
+                0.0072691677333899512, 
+                -0.04185011841522257, 
+                -0.059172270116525615, 
+                0.035656710390525377, 
+                -0.029613108969262832, 
+                -0.1225442242839177, 
+                -0.030936996345861122
+            ], 
+            "read_count": 3802024, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                3177300, 
+                409420, 
+                126300, 
+                55567, 
+                33437
+            ], 
+            "sample": "C190624023", 
+            "barcode_sequence": "AACCTCATTC", 
+            "Q20_bases": 480885547, 
+            "barcode_match_filtered": 280, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                3678544, 
+                105430, 
+                18050
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_024"
+        }, 
+        "Q1J4H.IonXpress_027": {
+            "index": 27, 
+            "barcode_name": "IonXpress_027", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 495854260, 
+            "barcode_bias": [
+                0.026952787332010918, 
+                0.019374277818798035, 
+                0.015008130823455439, 
+                0.020748944958009267, 
+                -0.020736090962809709, 
+                0.0081751764615715875, 
+                -0.065983911082990371, 
+                -0.03518260645466019, 
+                -0.019188196593016495, 
+                -0.031413466756627109, 
+                -0.069899613756430196, 
+                -0.010946518262804334, 
+                0.0066779631290792155, 
+                -0.042662019549887506
+            ], 
+            "read_count": 3625572, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                3167154, 
+                321961, 
+                89789, 
+                30890, 
+                15778
+            ], 
+            "sample": "C190624055", 
+            "barcode_sequence": "AACCATCCGC", 
+            "Q20_bases": 457979318, 
+            "barcode_match_filtered": 14047, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                3572042, 
+                45690, 
+                7840
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_027"
+        }, 
+        "Q1J4H.IonXpress_026": {
+            "index": 26, 
+            "barcode_name": "IonXpress_026", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 12703, 
+            "barcode_bias": [
+                0.0054602357522740286, 
+                0.014604998492252301, 
+                -0.0034317279170499454, 
+                0.018556216507054427, 
+                -0.048379244523889878, 
+                -0.48252949293921976, 
+                -0.064336767617393945, 
+                -0.14800958212684182, 
+                -0.001571024165433999, 
+                -0.0048848876373513653, 
+                -0.20324402276207418, 
+                -0.016275328474448007, 
+                0.016584184130325037, 
+                -0.017345528041615207
+            ], 
+            "read_count": 85, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                14, 
+                22, 
+                23, 
+                20, 
+                6
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "AGGCAATTGC", 
+            "Q20_bases": 11295, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                28, 
+                57, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_026"
+        }, 
+        "Q1J4H.IonXpress_049": {
+            "index": 49, 
+            "barcode_name": "IonXpress_049", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 7525, 
+            "barcode_bias": [
+                -0.06246373870156028, 
+                -0.045604686845432625, 
+                0.0011295811696486065, 
+                0.016048487789124589, 
+                0.021405604752627285, 
+                0.016533481380478901, 
+                -0.027194165370681068, 
+                0.011321452530947594, 
+                -0.056621539321812714, 
+                -0.021682988682931118, 
+                0.032749023563651877, 
+                -0.059343709187074142, 
+                0.0077773496423932638, 
+                -0.01620631461793726
+            ], 
+            "read_count": 44, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                40, 
+                4, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCCTAACATAAC", 
+            "Q20_bases": 6670, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                44, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_049"
+        }, 
+        "Q1J4H.IonXpress_048": {
+            "index": 48, 
+            "barcode_name": "IonXpress_048", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TTCTAAGAGAC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_048"
+        }, 
+        "Q1J4H.IonXpress_043": {
+            "index": 43, 
+            "barcode_name": "IonXpress_043", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 674, 
+            "barcode_bias": [
+                0.014195934558908144, 
+                -0.18170557419459024, 
+                -0.15382174650828043, 
+                -0.018607954184214275, 
+                0.015187859535217304, 
+                -0.065355521005888775, 
+                -0.1222328543663025, 
+                -0.0075498421986897922, 
+                -0.0096513628959655762, 
+                -0.057893236478169775, 
+                -0.15235823392868045, 
+                0.0048342595497767142, 
+                0.088704096774260208, 
+                -0.093869547049204513
+            ], 
+            "read_count": 3, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                1, 
+                2, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CTTGACACCGC", 
+            "Q20_bases": 560, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                3, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_043"
+        }, 
+        "Q1J4H.IonXpress_042": {
+            "index": 42, 
+            "barcode_name": "IonXpress_042", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 1397, 
+            "barcode_bias": [
+                0.04133183198670546, 
+                -0.0031211982843362654, 
+                -0.013858308912151392, 
+                0.036536225221223302, 
+                -0.047399818897247314, 
+                -0.0043852991527981253, 
+                -0.016155461470286053, 
+                -0.028543909390767404, 
+                -0.0020764279696676483, 
+                -0.14126557774013943, 
+                0.0063146882587009007, 
+                -0.012931413120693621, 
+                -0.035237054030100502, 
+                -0.027022355132632785
+            ], 
+            "read_count": 9, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                7, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "AGCACGAATC", 
+            "Q20_bases": 1230, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                8, 
+                1, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_042"
+        }, 
+        "Q1J4H.IonXpress_041": {
+            "index": 41, 
+            "barcode_name": "IonXpress_041", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 1588, 
+            "barcode_bias": [
+                -0.054184019565582275, 
+                -0.052815949916839598, 
+                0.0081777608953416351, 
+                0.033902111556380989, 
+                -0.0027661740779876599, 
+                -0.009316263953223828, 
+                -0.084540718793869013, 
+                -0.00030584335327148995, 
+                -0.01522603034973144, 
+                -0.053747528791427614, 
+                -0.036722636222839354, 
+                -0.032423427700996404, 
+                0.022610973194241529, 
+                0.0081104457378387458
+            ], 
+            "read_count": 10, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                9, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TTCCACTTCGC", 
+            "Q20_bases": 1493, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                10, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_041"
+        }, 
+        "Q1J4H.IonXpress_040": {
+            "index": 40, 
+            "barcode_name": "IonXpress_040", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 280, 
+            "barcode_bias": [
+                0.10412221401929855, 
+                -0.16085997223854065, 
+                -0.023094713687896729, 
+                -0.0072155594825744612, 
+                -0.0022017955780029297, 
+                -0.055079413577914224, 
+                -0.050837963819503784, 
+                -0.020119398832321167, 
+                -0.019373208284378048, 
+                -0.06064939871430397, 
+                0.02078581228852272, 
+                -0.15049165487289429, 
+                -1.018150746822357, 
+                -0.031808465719223022
+            ], 
+            "read_count": 2, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                2
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CTGACATAATC", 
+            "Q20_bases": 275, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                2, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_040"
+        }, 
+        "Q1J4H.IonXpress_047": {
+            "index": 47, 
+            "barcode_name": "IonXpress_047", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 4156, 
+            "barcode_bias": [
+                -0.022389327104275044, 
+                0.02646688980838428, 
+                0.005486333420356879, 
+                0.016868713114840478, 
+                0.0066301410014812734, 
+                -0.0049283366936903666, 
+                -0.037429298345859237, 
+                -0.12750245057619536, 
+                -0.012551951508682511, 
+                -0.015165819571568411, 
+                0.044938804151920163, 
+                -0.14998425428683942, 
+                -0.0090862099045457816, 
+                -0.013981287296001729
+            ], 
+            "read_count": 26, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                24, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TAAGGCAACCAC", 
+            "Q20_bases": 3783, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                25, 
+                1, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_047"
+        }, 
+        "Q1J4H.IonXpress_046": {
+            "index": 46, 
+            "barcode_name": "IonXpress_046", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 1191, 
+            "barcode_bias": [
+                -0.030304406370435442, 
+                -0.016569222722734724, 
+                0.0027545687875577445, 
+                0.012292162980884314, 
+                -0.00086327961512973534, 
+                -0.029550731182098385, 
+                0.021494111112718064, 
+                -0.020888723166925565, 
+                -0.018092232091086253, 
+                -0.035061580794198174, 
+                -0.050076493195125027, 
+                -0.078324420111519938, 
+                0.0037906177874122348, 
+                -0.034440347126552043
+            ], 
+            "read_count": 7, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                7, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCAGTCCGAAC", 
+            "Q20_bases": 1127, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                7, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_046"
+        }, 
+        "Q1J4H.IonXpress_045": {
+            "index": 45, 
+            "barcode_name": "IonXpress_045", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 377, 
+            "barcode_bias": [
+                -0.10039979219436647, 
+                0.097883604466915131, 
+                0.078934331890195622, 
+                -0.0180124044418335, 
+                -0.011000961065292358, 
+                0.041415870189666734, 
+                -0.010418683290481564, 
+                -0.0077717145904898626, 
+                -0.031450629234313965, 
+                0.09399741888046266, 
+                0.037782680243253708, 
+                -0.054981919936835766, 
+                0.017433196306228638, 
+                -0.07464697957038878
+            ], 
+            "read_count": 2, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                2, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TGGAGCTTCCTC", 
+            "Q20_bases": 339, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                2, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_045"
+        }, 
+        "Q1J4H.IonXpress_044": {
+            "index": 44, 
+            "barcode_name": "IonXpress_044", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 438, 
+            "barcode_bias": [
+                -0.082037568092346178, 
+                -0.0085819307714700699, 
+                0.0090115250398715326, 
+                0.038558761278788233, 
+                -0.034282704194386802, 
+                0.29003481070200604, 
+                0.0015346209208170574, 
+                -0.042021592458089195, 
+                -0.029105577617883682, 
+                -0.04509811910490194, 
+                -0.012993435064951578, 
+                -0.014702909936507544, 
+                0.041302911005914211, 
+                0.26159965991973877
+            ], 
+            "read_count": 3, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                2, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TTGGAGGCCAGC", 
+            "Q20_bases": 420, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                2, 
+                0, 
+                1
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_044"
+        }, 
+        "Q1J4H.nomatch": {
+            "index": 0, 
+            "read_count": 2842934, 
+            "description": "", 
+            "reference": "", 
+            "total_bases": 423592383, 
+            "sample": "none", 
+            "Q20_bases": 348825135, 
+            "filtered": false, 
+            "platform_unit": "Unspecified/P1.1.17/nomatch"
+        }, 
+        "Q1J4H.IonXpress_038": {
+            "index": 38, 
+            "barcode_name": "IonXpress_038", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 4322, 
+            "barcode_bias": [
+                -0.051573783159255981, 
+                0.032646218592372649, 
+                0.0052719759181714997, 
+                -0.053915908703437217, 
+                -0.013657237474734964, 
+                -0.037936439880957969, 
+                0.0067001073621213436, 
+                0.0010885527500739485, 
+                0.010612540341054015, 
+                -0.10861174418376042, 
+                -0.030355682739844687, 
+                -0.012097276174105135, 
+                0.0079844155076828453, 
+                -0.056172430515289307
+            ], 
+            "read_count": 26, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                23, 
+                2, 
+                0, 
+                0, 
+                1
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TGGAGGACGGAC", 
+            "Q20_bases": 4018, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                25, 
+                1, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_038"
+        }, 
+        "Q1J4H.IonXpress_039": {
+            "index": 39, 
+            "barcode_name": "IonXpress_039", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TAACAATCGGC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_039"
+        }, 
+        "Q1J4H.IonXpress_036": {
+            "index": 36, 
+            "barcode_name": "IonXpress_036", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 505, 
+            "barcode_bias": [
+                -0.020500188693404194, 
+                -0.03133370541036129, 
+                0.026905254150430363, 
+                0.026372450093428295, 
+                -0.14404447873433435, 
+                -0.11309889952341719, 
+                0.016586290982862312, 
+                -0.2141284147898356, 
+                -0.072354396184285491, 
+                -0.12592965364456177, 
+                0.029506961504618328, 
+                -0.002965439110994339, 
+                -0.010052363077799479, 
+                -0.068009495735168457
+            ], 
+            "read_count": 3, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                2, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "AAGGAATCGTC", 
+            "Q20_bases": 377, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                2, 
+                1, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_036"
+        }, 
+        "Q1J4H.IonXpress_037": {
+            "index": 37, 
+            "barcode_name": "IonXpress_037", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 155, 
+            "barcode_bias": [
+                0.011633225716650486, 
+                -0.073212891817092923, 
+                -0.0070715546607971191, 
+                -0.068412214517593398, 
+                -0.022448986768722538, 
+                0.023910284042358398, 
+                -0.043864191509783268, 
+                -0.48285362124443054, 
+                -0.038285195827484124, 
+                -0.034962162375450134, 
+                -0.038128942251205444, 
+                0.014236601069569586, 
+                0.071264088153839111, 
+                0.039620071649551392
+            ], 
+            "read_count": 2, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CTTGAGAATGTC", 
+            "Q20_bases": 130, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                1, 
+                1, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_037"
+        }, 
+        "Q1J4H.IonXpress_034": {
+            "index": 34, 
+            "barcode_name": "IonXpress_034", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 1277, 
+            "barcode_bias": [
+                -0.049514144659042358, 
+                -0.035522200167179108, 
+                0.032903693849220865, 
+                -0.12062881141901016, 
+                0.08026651362888515, 
+                0.073752015945501626, 
+                0.02034661918878555, 
+                -0.018033154308795929, 
+                -0.023570463061332706, 
+                -0.027250401675701141, 
+                -0.091596305370330811, 
+                -0.029850441729649901, 
+                -0.083384260535240173, 
+                -0.0085515454411506653
+            ], 
+            "read_count": 8, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                6, 
+                2, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCGCATCGTTC", 
+            "Q20_bases": 1165, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                8, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_034"
+        }, 
+        "Q1J4H.IonXpress_035": {
+            "index": 35, 
+            "barcode_name": "IonXpress_035", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TAAGCCATTGTC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_035"
+        }, 
+        "Q1J4H.IonXpress_032": {
+            "index": 32, 
+            "barcode_name": "IonXpress_032", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 527050260, 
+            "barcode_bias": [
+                -0.055495514081019708, 
+                -0.04553052289103008, 
+                -0.037853107550154474, 
+                0.015249885062729569, 
+                -0.0088479130881762187, 
+                0.022129237840522734, 
+                -0.047114467680401971, 
+                -0.030825401823224161, 
+                -0.00036472347127520312, 
+                -0.067432677875572125, 
+                0.049115311655468279, 
+                -0.021234110011223144, 
+                0.020275532489518196, 
+                -0.013591799494348094
+            ], 
+            "read_count": 3920539, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                3431183, 
+                327288, 
+                104847, 
+                39443, 
+                17778
+            ], 
+            "sample": "C190624089", 
+            "barcode_sequence": "TCTTACACAC", 
+            "Q20_bases": 485065709, 
+            "barcode_match_filtered": 2222, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                3858068, 
+                59725, 
+                2746
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_032"
+        }, 
+        "Q1J4H.IonXpress_033": {
+            "index": 33, 
+            "barcode_name": "IonXpress_033", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 958, 
+            "barcode_bias": [
+                -0.012975590569632389, 
+                -0.16048544645309448, 
+                0.025216851915631968, 
+                0.015454711259475775, 
+                0.044949043009962344, 
+                0.0094886140099593504, 
+                -0.010014397757393986, 
+                -0.10682437249592372, 
+                -0.089312263897487101, 
+                0.036903364317757738, 
+                -0.038577241556985054, 
+                -0.064249736922127862, 
+                -0.014375662697213036, 
+                -0.057188059602464945
+            ], 
+            "read_count": 7, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                5, 
+                2, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TTCTCATTGAAC", 
+            "Q20_bases": 875, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                7, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_033"
+        }, 
+        "Q1J4H.IonXpress_030": {
+            "index": 30, 
+            "barcode_name": "IonXpress_030", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 14535, 
+            "barcode_bias": [
+                0.028199288327260964, 
+                -0.073536248019572051, 
+                0.013884615849706329, 
+                -0.024227367358261281, 
+                -0.0086630629689505925, 
+                -0.11278942059934809, 
+                0.024451838094699248, 
+                0.025030342862010002, 
+                -0.065008901478199474, 
+                -0.0053743629662707211, 
+                0.030911839452017559, 
+                -0.059442976887306473, 
+                -0.055246962590164012, 
+                -0.024722813220506304
+            ], 
+            "read_count": 89, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                73, 
+                9, 
+                3, 
+                1, 
+                3
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CGAGGTTATC", 
+            "Q20_bases": 12772, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                84, 
+                5, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_030"
+        }, 
+        "Q1J4H.IonXpress_031": {
+            "index": 31, 
+            "barcode_name": "IonXpress_031", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 622634, 
+            "barcode_bias": [
+                -0.051374659089758842, 
+                -0.043301537341468146, 
+                0.019519587943410924, 
+                0.025864856384210586, 
+                0.018398464460126503, 
+                -0.042717477818152605, 
+                -0.030216022796948672, 
+                0.01362266874472046, 
+                -0.055379056550546188, 
+                -0.0017700303317580897, 
+                -0.10074532851738735, 
+                0.006592045514737529, 
+                0.012896111600433401, 
+                0.0013040901957661367
+            ], 
+            "read_count": 4141, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                3635, 
+                365, 
+                93, 
+                38, 
+                10
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCCAAGCTGC", 
+            "Q20_bases": 570648, 
+            "barcode_match_filtered": 3, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                4083, 
+                48, 
+                10
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_031"
+        }, 
+        "Q1J4H.IonXpress_058": {
+            "index": 58, 
+            "barcode_name": "IonXpress_058", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 8634, 
+            "barcode_bias": [
+                -0.042430381774902347, 
+                -0.032075407505035403, 
+                0.0018304216861724869, 
+                0.025411336943507196, 
+                -0.027038142681121827, 
+                -0.026905499696731568, 
+                0.0052583648264408096, 
+                -0.041521346569061278, 
+                -0.011001237891614437, 
+                -0.089977779388427728, 
+                0.027124502714723348, 
+                -0.11045127034187317, 
+                0.0092822719737887388, 
+                -0.026822457313537593
+            ], 
+            "read_count": 50, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                43, 
+                6, 
+                1, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCCTAGAACAC", 
+            "Q20_bases": 7697, 
+            "barcode_match_filtered": 1, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                50, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_058"
+        }, 
+        "Q1J4H.IonXpress_059": {
+            "index": 59, 
+            "barcode_name": "IonXpress_059", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 46313, 
+            "barcode_bias": [
+                -0.039948633313179015, 
+                -0.071238250817571361, 
+                -0.029195508786610196, 
+                -0.019955124599593026, 
+                0.0097151879753385271, 
+                0.026465660144042755, 
+                0.017040245424556944, 
+                0.023452302560742412, 
+                -0.047959686815738679, 
+                -0.0072242692245968751, 
+                -0.044777472742966243, 
+                0.012888417539319821, 
+                -0.066953086640153606, 
+                -0.043013378552028109
+            ], 
+            "read_count": 280, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                229, 
+                33, 
+                10, 
+                2, 
+                6
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCCTTGATGTTC", 
+            "Q20_bases": 41564, 
+            "barcode_match_filtered": 2, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                270, 
+                8, 
+                2
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_059"
+        }, 
+        "Q1J4H.IonXpress_050": {
+            "index": 50, 
+            "barcode_name": "IonXpress_050", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 9092, 
+            "barcode_bias": [
+                0.040864217461300235, 
+                -0.065298146476932606, 
+                -0.015004322068539211, 
+                -0.034582598536622287, 
+                -0.0037590709387087355, 
+                0.015337342104198884, 
+                -0.078778069393307559, 
+                -0.15524340377134435, 
+                0.0075293709250057444, 
+                -0.015580132001024835, 
+                -0.024776220321655273, 
+                0.015965871220710231, 
+                0.0099327360626821418, 
+                -0.040073800320718805
+            ], 
+            "read_count": 51, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                38, 
+                10, 
+                2, 
+                0, 
+                1
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CGGACAATGGC", 
+            "Q20_bases": 7963, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                50, 
+                0, 
+                1
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_050"
+        }, 
+        "Q1J4H.IonXpress_051": {
+            "index": 51, 
+            "barcode_name": "IonXpress_051", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 4539, 
+            "barcode_bias": [
+                -0.065205097198486328, 
+                0.029257648949278525, 
+                0.01698772571980953, 
+                -0.018869440555572513, 
+                -0.013848564624786376, 
+                -0.062717878818511957, 
+                -0.058855271339416503, 
+                0.0036548824608325947, 
+                -0.065434074401855474, 
+                -0.0075993056595325473, 
+                0.005020932480692861, 
+                -0.030689218044281007, 
+                -0.12018017768859864, 
+                -0.033799035549163817
+            ], 
+            "read_count": 25, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                20, 
+                5, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TTGAGCCTATTC", 
+            "Q20_bases": 4130, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                25, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_051"
+        }, 
+        "Q1J4H.IonXpress_052": {
+            "index": 52, 
+            "barcode_name": "IonXpress_052", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CCGCATGGAAC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_052"
+        }, 
+        "Q1J4H.IonXpress_053": {
+            "index": 53, 
+            "barcode_name": "IonXpress_053", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 53532, 
+            "barcode_bias": [
+                0.025461327532605878, 
+                -0.11360964795966057, 
+                -0.030564611884439069, 
+                -0.07522886915571371, 
+                0.056441219588800981, 
+                0.022214746218364521, 
+                -0.029739056992682682, 
+                -0.098503078245053624, 
+                -0.036551252671867422, 
+                -0.083238278224969361, 
+                0.048732298503445973, 
+                0.0021665496425406568, 
+                -0.026700262241302782, 
+                -0.036557588417818594
+            ], 
+            "read_count": 314, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                230, 
+                60, 
+                9, 
+                9, 
+                6
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CTGGCAATCCTC", 
+            "Q20_bases": 47845, 
+            "barcode_match_filtered": 2, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                303, 
+                9, 
+                2
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_053"
+        }, 
+        "Q1J4H.IonXpress_054": {
+            "index": 54, 
+            "barcode_name": "IonXpress_054", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 116731, 
+            "barcode_bias": [
+                0.011301808092236795, 
+                -0.084613599120706748, 
+                0.00076734122091686688, 
+                0.0060825593229653181, 
+                -0.029802417064058607, 
+                -0.098225397130717401, 
+                0.0039908370623985921, 
+                -0.00761994909549105, 
+                -0.029211724927459937, 
+                -0.053043459031892858, 
+                -0.020022176746009052, 
+                0.013120907474903094, 
+                0.022098521394250184, 
+                -0.028100619454314742
+            ], 
+            "read_count": 690, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                579, 
+                70, 
+                16, 
+                13, 
+                12
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CCGGAGAATCGC", 
+            "Q20_bases": 105135, 
+            "barcode_match_filtered": 1, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                661, 
+                26, 
+                3
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_054"
+        }, 
+        "Q1J4H.IonXpress_055": {
+            "index": 55, 
+            "barcode_name": "IonXpress_055", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 10323, 
+            "barcode_bias": [
+                -0.035212558049422041, 
+                -0.030424785919678517, 
+                0.012434999912213057, 
+                0.012614927159096951, 
+                -0.022716198976223286, 
+                0.012308184791786166, 
+                -0.057544637949038774, 
+                0.0090801187743170149, 
+                -0.02743670267936511, 
+                -0.10896130708547738, 
+                0.025164624901476487, 
+                0.017426726850084007, 
+                -0.038159810579740085, 
+                -0.038862718985630915
+            ], 
+            "read_count": 78, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                68, 
+                6, 
+                1, 
+                1, 
+                2
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCCACCTCCTC", 
+            "Q20_bases": 9662, 
+            "barcode_match_filtered": 5, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                74, 
+                4, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_055"
+        }, 
+        "Q1J4H.IonXpress_056": {
+            "index": 56, 
+            "barcode_name": "IonXpress_056", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CAGCATTAATTC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_056"
+        }, 
+        "Q1J4H.IonXpress_057": {
+            "index": 57, 
+            "barcode_name": "IonXpress_057", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 2643, 
+            "barcode_bias": [
+                -0.035702845629523784, 
+                -0.022832393646240234, 
+                -0.058719098567962646, 
+                0.0039238999871646675, 
+                0.055842083824031497, 
+                0.020123514620696798, 
+                -0.021424556479734531, 
+                -0.070591211318969727, 
+                -0.0022132270695532068, 
+                -0.060114099698908185, 
+                -0.10631834759431728, 
+                -0.0012168011025470865, 
+                0.013692173668566879, 
+                0.0074098671183866595
+            ], 
+            "read_count": 17, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                15, 
+                2, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCTGGCAACGGC", 
+            "Q20_bases": 2454, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                17, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_057"
+        }, 
+        "Q1J4H.IonXpress_069": {
+            "index": 69, 
+            "barcode_name": "IonXpress_069", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 250538, 
+            "barcode_bias": [
+                -0.032872902958289436, 
+                -0.058597920057566269, 
+                0.011211507811031364, 
+                0.021377365596455766, 
+                -0.022038021367853104, 
+                0.019854391549217879, 
+                0.019179968345586374, 
+                0.028127274932162633, 
+                -0.022105204994263855, 
+                -0.0078034779371987297, 
+                -0.030654588106857693, 
+                0.0061522610599438294, 
+                0.0066017774250054654, 
+                -0.054314107310188854
+            ], 
+            "read_count": 1472, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                1210, 
+                134, 
+                42, 
+                29, 
+                57
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TTCAATTGGC", 
+            "Q20_bases": 222247, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                1367, 
+                82, 
+                23
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_069"
+        }, 
+        "Q1J4H.IonXpress_068": {
+            "index": 68, 
+            "barcode_name": "IonXpress_068", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 3493, 
+            "barcode_bias": [
+                -0.1215304760705857, 
+                -0.026171289739154634, 
+                0.035345025693199465, 
+                0.013636131460467972, 
+                -0.0096500487554640989, 
+                -0.016005419549487882, 
+                0.068991766377751312, 
+                0.014039226940699987, 
+                0.0068729737152655908, 
+                -0.0018105380059707746, 
+                -0.08075494425637382, 
+                0.048096752592495511, 
+                -0.090251059759230839, 
+                -0.042782772155035106
+            ], 
+            "read_count": 21, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                12, 
+                7, 
+                0, 
+                1, 
+                1
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCAAGAAGTTC", 
+            "Q20_bases": 3128, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                19, 
+                2, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_068"
+        }, 
+        "Q1J4H.IonXpress_065": {
+            "index": 65, 
+            "barcode_name": "IonXpress_065", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 183084, 
+            "barcode_bias": [
+                -0.056623233068514453, 
+                -0.061682316780984126, 
+                -0.022442320349513645, 
+                -0.072904252179225359, 
+                0.064990179104802065, 
+                0.025245986699939278, 
+                -0.085861671831189978, 
+                -0.019850066139414251, 
+                0.0063664795396170442, 
+                -0.064998680112958507, 
+                0.040378677748639451, 
+                -0.06687090482349807, 
+                -0.032115474636574826, 
+                -0.034568145214785115
+            ], 
+            "read_count": 1067, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                796, 
+                174, 
+                46, 
+                29, 
+                22
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCCTGGCACATC", 
+            "Q20_bases": 163423, 
+            "barcode_match_filtered": 1, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                1030, 
+                36, 
+                1
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_065"
+        }, 
+        "Q1J4H.IonXpress_064": {
+            "index": 64, 
+            "barcode_name": "IonXpress_064", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 831942853, 
+            "barcode_bias": [
+                0.031192414825070489, 
+                -0.1116457103847676, 
+                -0.038169113692189137, 
+                -0.014854272422922192, 
+                0.023119186765456115, 
+                -0.036661793728779743, 
+                0.018456562338286634, 
+                0.0080275419247763692, 
+                -0.046540771165540999, 
+                -0.075198767495657071, 
+                0.0052310506309130771, 
+                -0.0020559034449665128, 
+                0.0047155189522862994, 
+                -0.048974874996111945
+            ], 
+            "read_count": 4896558, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                4028414, 
+                613108, 
+                138703, 
+                55290, 
+                61043
+            ], 
+            "sample": "P190716002", 
+            "barcode_sequence": "CTGAGTTCCGAC", 
+            "Q20_bases": 739803626, 
+            "barcode_match_filtered": 3970, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                4747760, 
+                124541, 
+                24257
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_064"
+        }, 
+        "Q1J4H.IonXpress_067": {
+            "index": 67, 
+            "barcode_name": "IonXpress_067", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 40999, 
+            "barcode_bias": [
+                -0.043083845833201469, 
+                -0.049840463532341853, 
+                -0.041526419390376212, 
+                0.032079380999200442, 
+                0.004179910377219871, 
+                0.023748158059493013, 
+                -0.064872622980502406, 
+                -0.034939137996469506, 
+                8.7672798537913755e-05, 
+                -0.0039797777179705262, 
+                0.055100386770664422, 
+                0.011722472082409596, 
+                -0.20179251903369103, 
+                -0.049452113761823367
+            ], 
+            "read_count": 243, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                177, 
+                50, 
+                7, 
+                4, 
+                5
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TTCCTACCAGTC", 
+            "Q20_bases": 36578, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                233, 
+                9, 
+                1
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_067"
+        }, 
+        "Q1J4H.IonXpress_066": {
+            "index": 66, 
+            "barcode_name": "IonXpress_066", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 40778, 
+            "barcode_bias": [
+                0.020692463468885119, 
+                -0.07703680467803449, 
+                0.013120652845173102, 
+                -0.06643975819789523, 
+                0.044450915975040174, 
+                0.019969856420616886, 
+                -0.0059219455323278655, 
+                -0.15308017206389873, 
+                -0.039490034224086777, 
+                -0.051731723720107335, 
+                0.040102670456116624, 
+                -0.10201864569018985, 
+                -0.038412637235712706, 
+                -0.027306829992666284
+            ], 
+            "read_count": 241, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                160, 
+                51, 
+                15, 
+                3, 
+                12
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CCGCAATCATC", 
+            "Q20_bases": 36258, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                217, 
+                24, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_066"
+        }, 
+        "Q1J4H.IonXpress_061": {
+            "index": 61, 
+            "barcode_name": "IonXpress_061", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 704, 
+            "barcode_bias": [
+                -0.12320981025695801, 
+                -0.010799121856689454, 
+                0.041489359084516765, 
+                -0.0062040693126618855, 
+                -0.045127594470977785, 
+                0.008305703662335873, 
+                -0.066559660434722903, 
+                0.020290443301200868, 
+                -0.021165013313293457, 
+                -0.019791889190673834, 
+                -0.8774954080581665, 
+                0.022636961936950691, 
+                -0.045437371730804442, 
+                -0.041180229187011717
+            ], 
+            "read_count": 5, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                1, 
+                4
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCACTCGGATC", 
+            "Q20_bases": 658, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                5, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_061"
+        }, 
+        "Q1J4H.IonXpress_060": {
+            "index": 60, 
+            "barcode_name": "IonXpress_060", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 16880, 
+            "barcode_bias": [
+                -0.061132077414255873, 
+                -0.01829869758624297, 
+                -0.016116094703857716, 
+                0.026270009957862876, 
+                0.029793005723219652, 
+                -0.05137010721059946, 
+                -0.042202409070271715, 
+                0.022879831398873087, 
+                -0.059760976869326368, 
+                -0.094262155202718884, 
+                0.060767229127052888, 
+                0.02179666226192449, 
+                -0.11626450946697822, 
+                -0.036998036389167495
+            ], 
+            "read_count": 104, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                88, 
+                13, 
+                1, 
+                2, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCTAGCTCTTC", 
+            "Q20_bases": 15366, 
+            "barcode_match_filtered": 1, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                101, 
+                3, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_060"
+        }, 
+        "Q1J4H.IonXpress_063": {
+            "index": 63, 
+            "barcode_name": "IonXpress_063", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 967763400, 
+            "barcode_bias": [
+                0.024839230951852198, 
+                -0.10268381356110226, 
+                -0.051260898016590561, 
+                0.026847096843502793, 
+                -0.02999530917395269, 
+                -0.010782816864808016, 
+                0.028218305449062158, 
+                -0.026190618849380155, 
+                0.0078931474686361278, 
+                -0.0070859080041027452, 
+                -0.033812361046892107, 
+                0.019085030494045922, 
+                -0.0994622122826294, 
+                -0.047046762137404413
+            ], 
+            "read_count": 5866182, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                4884596, 
+                758328, 
+                163032, 
+                37102, 
+                23124
+            ], 
+            "sample": "N190716001", 
+            "barcode_sequence": "CCTTAGAGTTC", 
+            "Q20_bases": 873427800, 
+            "barcode_match_filtered": 75484, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                5743736, 
+                110635, 
+                11811
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_063"
+        }, 
+        "Q1J4H.IonXpress_062": {
+            "index": 62, 
+            "barcode_name": "IonXpress_062", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 56, 
+            "barcode_bias": [
+                0.17303776741027829, 
+                0.14046573638916021, 
+                -0.1243565082550049, 
+                -0.062381386756896973, 
+                0.074399948120117188, 
+                0.003764832392334938, 
+                -0.03130030632019043, 
+                -0.01273016538470984, 
+                -0.1465907096862793, 
+                -0.033708751201629639, 
+                0.15308177471160889, 
+                0.034590780735015869, 
+                0.1333812028169632, 
+                -0.057170689105987549
+            ], 
+            "read_count": 1, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TTCCTGCTTCAC", 
+            "Q20_bases": 42, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                1, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_062"
+        }, 
+        "Q1J4H.IonXpress_089": {
+            "index": 89, 
+            "barcode_name": "IonXpress_089", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 350, 
+            "barcode_bias": [
+                0.083146393299102783, 
+                0.094694674015045166, 
+                0.05920177698135376, 
+                0.069159924983978271, 
+                -0.13401466608047491, 
+                -0.053885371424257762, 
+                -0.035019885282963507, 
+                0.023962900042533871, 
+                0.015646457672119141, 
+                -0.12956956028938291, 
+                0.28586791455745703, 
+                0.1233599483966827, 
+                0.050660669803619378, 
+                -0.1421319842338562
+            ], 
+            "read_count": 2, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCCTGAATCTC", 
+            "Q20_bases": 298, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                1, 
+                1, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_089"
+        }, 
+        "Q1J4H.IonXpress_088": {
+            "index": 88, 
+            "barcode_name": "IonXpress_088", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 300, 
+            "barcode_bias": [
+                0.036807402968406677, 
+                -0.055335164070129388, 
+                -0.047425217926502228, 
+                0.06554722785949707, 
+                0.23914158344268799, 
+                0.013560950756073, 
+                -0.041841864585876458, 
+                -0.17055040597915649, 
+                -0.03551916778087616, 
+                -0.016102433204650879, 
+                -0.0191529281437397, 
+                0.077035516500473022, 
+                -0.1145306825637817, 
+                -0.0042792558670043954
+            ], 
+            "read_count": 1, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CCGAACACTTC", 
+            "Q20_bases": 257, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                1, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_088"
+        }, 
+        "Q1J4H.IonXpress_087": {
+            "index": 87, 
+            "barcode_name": "IonXpress_087", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 7683, 
+            "barcode_bias": [
+                -0.076373444362120194, 
+                0.046184195396067065, 
+                0.0023382479451935401, 
+                -0.021975373679941349, 
+                0.055676368488506836, 
+                0.041862718252973122, 
+                -0.12995336001569574, 
+                0.019421902224910973, 
+                -0.053266097198833122, 
+                -0.016178130108693786, 
+                -0.012974871830506758, 
+                -0.045248333703387864, 
+                0.002483176321468568, 
+                -0.060569794340567154
+            ], 
+            "read_count": 44, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                33, 
+                7, 
+                0, 
+                0, 
+                4
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TTGGCTGGAC", 
+            "Q20_bases": 6712, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                40, 
+                3, 
+                1
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_087"
+        }, 
+        "Q1J4H.IonXpress_086": {
+            "index": 86, 
+            "barcode_name": "IonXpress_086", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 438, 
+            "barcode_bias": [
+                0.089236900210380526, 
+                -0.093480616807937622, 
+                -0.12427067756652832, 
+                -0.093431770801544203, 
+                0.12775116413831711, 
+                0.02110035065561533, 
+                0.056535310577601194, 
+                0.049002984538674355, 
+                -0.059674322605133057, 
+                0.091708946973085417, 
+                -0.016050050035119057, 
+                -0.061836570501327522, 
+                -0.13091939687728882, 
+                -0.44443517923355103
+            ], 
+            "read_count": 2, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CTTGGTTATTC", 
+            "Q20_bases": 420, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                1, 
+                1, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_086"
+        }, 
+        "Q1J4H.IonXpress_085": {
+            "index": 85, 
+            "barcode_name": "IonXpress_085", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 120, 
+            "barcode_bias": [
+                0.09892948716878891, 
+                0.0082991123199462891, 
+                0.061234921216964722, 
+                -0.0058019189164042473, 
+                0.02320939302444458, 
+                -0.026179373264312741, 
+                -0.01877439022064209, 
+                -0.03049439191818237, 
+                -0.065012693405151367, 
+                -0.089514672756195068, 
+                0.089450359344482422, 
+                -0.1052989959716797, 
+                0.078715220093727112, 
+                0.081994533538818359
+            ], 
+            "read_count": 1, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CCAGCCTCAAC", 
+            "Q20_bases": 118, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                1, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_085"
+        }, 
+        "Q1J4H.IonXpress_084": {
+            "index": 84, 
+            "barcode_name": "IonXpress_084", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CTTCCATAAC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_084"
+        }, 
+        "Q1J4H.IonXpress_083": {
+            "index": 83, 
+            "barcode_name": "IonXpress_083", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 170, 
+            "barcode_bias": [
+                -0.019226390868425369, 
+                -0.070887506008148193, 
+                0.046443760395050049, 
+                -0.034127641469240189, 
+                0.0068359375, 
+                0.0022240877151489262, 
+                -0.0044628679752349854, 
+                0.090081989765167236, 
+                -0.098600000143051147, 
+                -0.09100419282913208, 
+                0.0084373056888580322, 
+                -0.090035140514373779, 
+                -0.003701329231262207, 
+                -0.028112232685089111
+            ], 
+            "read_count": 1, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CTAGGACATTC", 
+            "Q20_bases": 152, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                1, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_083"
+        }, 
+        "Q1J4H.IonXpress_082": {
+            "index": 82, 
+            "barcode_name": "IonXpress_082", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 450, 
+            "barcode_bias": [
+                -0.097294807434082031, 
+                0.0071191575067738712, 
+                -0.039227602692941822, 
+                -0.043656388918558754, 
+                0.04619218222796919, 
+                -0.0077671123047669752, 
+                0.010241230328877768, 
+                0.091146806875864669, 
+                -0.08871004978815715, 
+                -0.13117204109827679, 
+                0.087461613118648543, 
+                0.017333451348046463, 
+                -0.024765292803446453, 
+                -0.059131761391957617
+            ], 
+            "read_count": 3, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                3, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TTGGCATCTC", 
+            "Q20_bases": 412, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                3, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_082"
+        }, 
+        "Q1J4H.IonXpress_081": {
+            "index": 81, 
+            "barcode_name": "IonXpress_081", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CCTGCCATTCGC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_081"
+        }, 
+        "Q1J4H.IonXpress_080": {
+            "index": 80, 
+            "barcode_name": "IonXpress_080", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCGAAGGCAGGC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_080"
+        }, 
+        "Q1J4H.IonXpress_072": {
+            "index": 72, 
+            "barcode_name": "IonXpress_072", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CGAAGGCCACAC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_072"
+        }, 
+        "Q1J4H.IonXpress_073": {
+            "index": 73, 
+            "barcode_name": "IonXpress_073", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 698, 
+            "barcode_bias": [
+                -0.047707006335258491, 
+                -0.023230895400047302, 
+                0.020545780658721924, 
+                -0.028900787234306335, 
+                -0.011452645063400258, 
+                0.036200269591063261, 
+                -0.031082451343536377, 
+                0.041637029145931592, 
+                -0.069599762558937073, 
+                0.0006105098873376855, 
+                -0.098211690783500671, 
+                -0.012147589237429203, 
+                -0.07889103889465332, 
+                -0.056894004344940179
+            ], 
+            "read_count": 4, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                4, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCTGCCTGTC", 
+            "Q20_bases": 641, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                4, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_073"
+        }, 
+        "Q1J4H.IonXpress_070": {
+            "index": 70, 
+            "barcode_name": "IonXpress_070", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CCTACTGGTC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_070"
+        }, 
+        "Q1J4H.IonXpress_071": {
+            "index": 71, 
+            "barcode_name": "IonXpress_071", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 1072, 
+            "barcode_bias": [
+                -0.079160163799921676, 
+                0.011046450895567736, 
+                -0.018365556141361594, 
+                0.029692927996317547, 
+                0.038304269313812249, 
+                -0.086924791336059584, 
+                -0.20519955952962241, 
+                0.0067692718779047353, 
+                -0.058839589357376092, 
+                -0.1671163042386373, 
+                -0.021270543336868286, 
+                -0.053710212310155235, 
+                0.0057003678133090247, 
+                -0.068111946185429886
+            ], 
+            "read_count": 6, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                4, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TGAGGCTCCGAC", 
+            "Q20_bases": 976, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                5, 
+                1, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_071"
+        }, 
+        "Q1J4H.IonXpress_076": {
+            "index": 76, 
+            "barcode_name": "IonXpress_076", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 276, 
+            "barcode_bias": [
+                0.058753910740051672, 
+                -0.055589020252227783, 
+                0.093944179825484767, 
+                -0.07803595066070558, 
+                0.04455322027206423, 
+                -0.13018509745597839, 
+                0.008294091559946537, 
+                -0.13921946287155149, 
+                -0.11070021241903305, 
+                -0.12417608499526978, 
+                0.075717221945524216, 
+                0.11910901591181755, 
+                -0.049852311611175537, 
+                0.020918667316436768
+            ], 
+            "read_count": 2, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                2, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CGGAAGAACCTC", 
+            "Q20_bases": 257, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                2, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_076"
+        }, 
+        "Q1J4H.IonXpress_077": {
+            "index": 77, 
+            "barcode_name": "IonXpress_077", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 457, 
+            "barcode_bias": [
+                0.037094785307999686, 
+                -0.096761763095855713, 
+                0.10619151312857865, 
+                -0.1435806006193161, 
+                -0.11948201060295104, 
+                -0.088782772421836853, 
+                -0.097728237509727478, 
+                0.055042234715074315, 
+                -0.060463756322860711, 
+                -0.030289811198599633, 
+                -0.015761226415634155, 
+                -0.08947870135307312, 
+                -0.14813509583473206, 
+                -0.069707542657852187
+            ], 
+            "read_count": 4, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                2, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CGAAGCGATTC", 
+            "Q20_bases": 369, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                4, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_077"
+        }, 
+        "Q1J4H.IonXpress_074": {
+            "index": 74, 
+            "barcode_name": "IonXpress_074", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CGATCGGTTC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_074"
+        }, 
+        "Q1J4H.IonXpress_075": {
+            "index": 75, 
+            "barcode_name": "IonXpress_075", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCAGGAATAC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_075"
+        }, 
+        "Q1J4H.IonXpress_078": {
+            "index": 78, 
+            "barcode_name": "IonXpress_078", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CAGCCAATTCTC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_078"
+        }, 
+        "Q1J4H.IonXpress_079": {
+            "index": 79, 
+            "barcode_name": "IonXpress_079", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 322, 
+            "barcode_bias": [
+                0.045151032507419572, 
+                -0.050791144371032701, 
+                -0.031582862138748169, 
+                -0.14140999317169187, 
+                -0.010732099879533054, 
+                -0.018569853156805025, 
+                0.10104763507843015, 
+                0.026064099743962281, 
+                -0.014336705207824705, 
+                -0.053479850292205811, 
+                -0.12228441238403319, 
+                0.058325549587607356, 
+                0.070686221122741699, 
+                -0.12840181589126587
+            ], 
+            "read_count": 2, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CCTGGTTGTC", 
+            "Q20_bases": 294, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                2, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_079"
+        }, 
+        "Q1J4H.IonXpress_094": {
+            "index": 94, 
+            "barcode_name": "IonXpress_094", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 166, 
+            "barcode_bias": [
+                -0.05133742094039917, 
+                0.06103670597076416, 
+                0.1163876429200172, 
+                0.1882467865943909, 
+                -0.002565920352935791, 
+                -0.2437856197357178, 
+                -0.053743839263916023, 
+                -0.0084564685821533203, 
+                0.068922720849514008, 
+                0.16694100201129911, 
+                -0.083722352981567383, 
+                -0.27194267511367798, 
+                -0.032088197767734528, 
+                -0.072112798690795898
+            ], 
+            "read_count": 1, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCCGACAAGC", 
+            "Q20_bases": 161, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                1, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_094"
+        }, 
+        "Q1J4H.IonXpress_095": {
+            "index": 95, 
+            "barcode_name": "IonXpress_095", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 278, 
+            "barcode_bias": [
+                0.060705900669745447, 
+                -0.14879098534584045, 
+                0.0095086141955107468, 
+                0.32604265213012695, 
+                0.0020973980426788347, 
+                -0.011621270328760147, 
+                -0.10405340790748598, 
+                -0.046438068151473999, 
+                -0.020475702825933695, 
+                0.0010709757916629314, 
+                0.0098861455917358398, 
+                -0.027345448732376095, 
+                -0.5285416841506958, 
+                -0.071836531162261963
+            ], 
+            "read_count": 2, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CGGACAGATC", 
+            "Q20_bases": 275, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                1, 
+                0, 
+                1
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_095"
+        }, 
+        "Q1J4H.IonXpress_096": {
+            "index": 96, 
+            "barcode_name": "IonXpress_096", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 726, 
+            "barcode_bias": [
+                0.13417179584503175, 
+                0.057782324030995369, 
+                0.026393733359873293, 
+                0.010901838727295398, 
+                -0.32789993286132812, 
+                -0.02927039861679076, 
+                -0.018287074565887452, 
+                0.0016873652115464218, 
+                -0.0072427030652761461, 
+                0.028071907348930836, 
+                -0.036971807479858391, 
+                0.025938516110181813, 
+                -0.0064260005950927731, 
+                -0.033605551719665526
+            ], 
+            "read_count": 5, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                3, 
+                0, 
+                0, 
+                0, 
+                2
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TTAAGCGGTC", 
+            "Q20_bases": 699, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                3, 
+                1, 
+                1
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_096"
+        }, 
+        "Q1J4H.IonXpress_090": {
+            "index": 90, 
+            "barcode_name": "IonXpress_090", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CTAACCACGGC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_090"
+        }, 
+        "Q1J4H.IonXpress_091": {
+            "index": 91, 
+            "barcode_name": "IonXpress_091", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 314, 
+            "barcode_bias": [
+                0.086422471329569817, 
+                -0.047024995088577271, 
+                0.060669859696645283, 
+                -0.11276096105575562, 
+                -0.12850356101989746, 
+                -0.045598804950714132, 
+                0.024464118294417858, 
+                -0.92415297031402588, 
+                0.0045887231826782209, 
+                -0.004691380774602294, 
+                -0.0057179629802703857, 
+                -0.017980160191655159, 
+                0.0012978902086615554, 
+                0.025266528129577637
+            ], 
+            "read_count": 2, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                2
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CGGAAGGATGC", 
+            "Q20_bases": 308, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                2, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_091"
+        }, 
+        "Q1J4H.IonXpress_092": {
+            "index": 92, 
+            "barcode_name": "IonXpress_092", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 140, 
+            "barcode_bias": [
+                -0.019543930888175961, 
+                0.022440910339355469, 
+                -0.02112597227096558, 
+                0.0076493513770401478, 
+                0.085278511047363281, 
+                -0.0049592256546020508, 
+                -0.0080424398183822632, 
+                0.1151751279830933, 
+                0.098314866423606873, 
+                0.2055624723434448, 
+                -0.35945343971252441, 
+                -0.11390601843595501, 
+                -0.14100465178489691, 
+                -0.096996903419494629
+            ], 
+            "read_count": 1, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CTAGGAACCGC", 
+            "Q20_bases": 126, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                1, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_092"
+        }, 
+        "Q1J4H.IonXpress_093": {
+            "index": 93, 
+            "barcode_name": "IonXpress_093", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 0, 
+            "barcode_bias": [
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "read_count": 0, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CTTGTCCAATC", 
+            "Q20_bases": 0, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                0, 
+                0, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_093"
+        }, 
+        "Q1J4H.IonXpress_007": {
+            "index": 7, 
+            "barcode_name": "IonXpress_007", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 436382646, 
+            "barcode_bias": [
+                -0.062035254531196689, 
+                -0.035961290540525555, 
+                0.020497469341679602, 
+                -0.053090804618901012, 
+                0.05992422082754531, 
+                0.022846479449115505, 
+                0.023255289901984798, 
+                0.018089328488898222, 
+                -0.032538234605608375, 
+                -0.0026963281649267212, 
+                -0.001782358265887097, 
+                -0.026845542906616525, 
+                -0.10187718180844771, 
+                -0.024405595799411432
+            ], 
+            "read_count": 3230963, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                2750392, 
+                304068, 
+                102471, 
+                45625, 
+                28407
+            ], 
+            "sample": "C190624066", 
+            "barcode_sequence": "TTCGTGATTC", 
+            "Q20_bases": 401302015, 
+            "barcode_match_filtered": 5189, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                3145636, 
+                67864, 
+                17463
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_007"
+        }, 
+        "Q1J4H.IonXpress_006": {
+            "index": 6, 
+            "barcode_name": "IonXpress_006", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 1, 
+            "total_bases": 8669534, 
+            "barcode_bias": [
+                0.030526485641413057, 
+                -0.12572118282481332, 
+                -0.061975350734098218, 
+                -0.054603647030119169, 
+                0.060982894158527048, 
+                0.031712477042265194, 
+                -0.024958764908824409, 
+                -0.054937171535352915, 
+                0.0095306269761539063, 
+                -0.0070712009391084695, 
+                -0.013015708383096961, 
+                0.020692658710280917, 
+                -0.066301542542246808, 
+                -0.046751366296873716
+            ], 
+            "read_count": 51857, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                41269, 
+                7403, 
+                2094, 
+                758, 
+                333
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "CTGCAAGTTC", 
+            "Q20_bases": 7784360, 
+            "barcode_match_filtered": 104, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                50711, 
+                994, 
+                152
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_006"
+        }, 
+        "Q1J4H.IonXpress_005": {
+            "index": 5, 
+            "barcode_name": "IonXpress_005", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 1500596889, 
+            "barcode_bias": [
+                0.028716252894468525, 
+                -0.075290635804514269, 
+                0.012652792202657625, 
+                0.031729721105072987, 
+                -0.026910183221938139, 
+                -0.024908064400293018, 
+                0.0123422786416454, 
+                -0.02112940259399123, 
+                -0.0015266071261556176, 
+                -0.012415798239190978, 
+                -0.041372244167719056, 
+                -0.10662639766044528, 
+                0.0071928349146214111, 
+                -0.045674005711131171
+            ], 
+            "read_count": 9048758, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                7778856, 
+                881887, 
+                240753, 
+                92604, 
+                54658
+            ], 
+            "sample": "C190715003", 
+            "barcode_sequence": "CAGAAGGAAC", 
+            "Q20_bases": 1346140180, 
+            "barcode_match_filtered": 2025, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                8771656, 
+                242074, 
+                35028
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_005"
+        }, 
+        "Q1J4H.IonXpress_004": {
+            "index": 4, 
+            "barcode_name": "IonXpress_004", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 752188556, 
+            "barcode_bias": [
+                -0.052923142718283314, 
+                0.03018026492933026, 
+                0.011215063889601039, 
+                0.014861733635517153, 
+                0.0089615361483262549, 
+                0.010895075323134497, 
+                -0.072712070470823315, 
+                -0.015713763071483769, 
+                -1.4350103177351901e-05, 
+                -0.0030811167250940213, 
+                -0.035200055487899479, 
+                -0.025277874376128159, 
+                -0.027490735357261493, 
+                -0.048838680570280006
+            ], 
+            "read_count": 5559090, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                4814341, 
+                507060, 
+                150582, 
+                59507, 
+                27600
+            ], 
+            "sample": "C190624034", 
+            "barcode_sequence": "TACCAAGATC", 
+            "Q20_bases": 693551838, 
+            "barcode_match_filtered": 2883, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                5433264, 
+                105248, 
+                20578
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_004"
+        }, 
+        "Q1J4H.IonXpress_003": {
+            "index": 3, 
+            "barcode_name": "IonXpress_003", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 376968, 
+            "barcode_bias": [
+                0.039031816713821527, 
+                0.046014370939044216, 
+                0.023271777712106808, 
+                0.029703652790108143, 
+                -0.033890157560075539, 
+                -0.017425121199609577, 
+                0.017777559989435827, 
+                -0.018251181215695713, 
+                -0.0063344753157845999, 
+                -0.013252466978000471, 
+                -0.074284647415945496, 
+                -0.048017724808575447, 
+                -0.1555826969552731, 
+                -0.03476345242149588
+            ], 
+            "read_count": 2208, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                1791, 
+                293, 
+                85, 
+                19, 
+                20
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "AAGAGGATTC", 
+            "Q20_bases": 336903, 
+            "barcode_match_filtered": 6, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                2114, 
+                89, 
+                5
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_003"
+        }, 
+        "Q1J4H.IonXpress_002": {
+            "index": 2, 
+            "barcode_name": "IonXpress_002", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 82026023, 
+            "barcode_bias": [
+                -0.032613716386039826, 
+                0.034371031417408535, 
+                0.014244354591655628, 
+                0.019356128866995982, 
+                -0.015739220031477617, 
+                -0.0092116209536441777, 
+                0.012504112309424324, 
+                -0.056809237292198729, 
+                -0.0025634135982926329, 
+                -0.0067549076252271358, 
+                -0.027322516917540084, 
+                -0.11074583684695362, 
+                0.012996237327794665, 
+                -0.02776096103829034
+            ], 
+            "read_count": 548634, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                483047, 
+                44947, 
+                12125, 
+                4245, 
+                4270
+            ], 
+            "sample": "C171118005", 
+            "barcode_sequence": "TAAGGAGAAC", 
+            "Q20_bases": 75025661, 
+            "barcode_match_filtered": 1348, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                534491, 
+                12710, 
+                1433
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_002"
+        }, 
+        "Q1J4H.IonXpress_001": {
+            "index": 1, 
+            "barcode_name": "IonXpress_001", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 968763307, 
+            "barcode_bias": [
+                0.025945910137970978, 
+                -0.097755012546782358, 
+                -0.019892129595528722, 
+                0.028007622818474825, 
+                -0.015743726566631724, 
+                -0.025135197971853443, 
+                0.014014210277694724, 
+                0.02612187142550389, 
+                -0.047458868359518278, 
+                -0.0079008387797496228, 
+                0.027358004903949077, 
+                -0.10023945247579095, 
+                0.0037053053184599206, 
+                -0.029738005306862672
+            ], 
+            "read_count": 5909829, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                5040176, 
+                619414, 
+                163433, 
+                58994, 
+                27812
+            ], 
+            "sample": "C190710043", 
+            "barcode_sequence": "CTAAGGTAAC", 
+            "Q20_bases": 868126963, 
+            "barcode_match_filtered": 1257, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                5765643, 
+                131118, 
+                13068
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_001"
+        }, 
+        "Q1J4H.IonXpress_009": {
+            "index": 9, 
+            "barcode_name": "IonXpress_009", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 119995748, 
+            "barcode_bias": [
+                -0.034213677718509077, 
+                0.042556286122051097, 
+                0.018147608322840608, 
+                -0.02388559864254191, 
+                -0.014740085201816194, 
+                -0.042212724484810213, 
+                -0.037752679911663242, 
+                0.0084473744937174078, 
+                0.0014907240522216596, 
+                -0.0074774132751512928, 
+                -0.033699980746970989, 
+                -0.084948695805827673, 
+                0.015141617123196982, 
+                -0.033373548962256396
+            ], 
+            "read_count": 886983, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                784478, 
+                70344, 
+                20870, 
+                7593, 
+                3698
+            ], 
+            "sample": "C190617001", 
+            "barcode_sequence": "TGAGCGGAAC", 
+            "Q20_bases": 110234430, 
+            "barcode_match_filtered": 834, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                871156, 
+                14526, 
+                1301
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_009"
+        }, 
+        "Q1J4H.IonXpress_008": {
+            "index": 8, 
+            "barcode_name": "IonXpress_008", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 1033492755, 
+            "barcode_bias": [
+                -0.020414255623139397, 
+                -0.028257858721990506, 
+                0.011802132072876014, 
+                -0.018883237942404169, 
+                0.0094862469599378326, 
+                0.018202563185339114, 
+                0.011778531200898341, 
+                0.032176389421691307, 
+                -0.054534613010433927, 
+                -0.0057952212732392157, 
+                0.036124529132385549, 
+                -0.19430162685298563, 
+                0.010825132875004508, 
+                -0.031799766451152858
+            ], 
+            "read_count": 6267170, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                4866381, 
+                956022, 
+                279004, 
+                113227, 
+                52536
+            ], 
+            "sample": "C190710035", 
+            "barcode_sequence": "TTCCGATAAC", 
+            "Q20_bases": 923905956, 
+            "barcode_match_filtered": 1102, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                5912390, 
+                329215, 
+                25565
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_008"
+        }, 
+        "Q1J4H.IonXpress_014": {
+            "index": 14, 
+            "barcode_name": "IonXpress_014", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 1034997008, 
+            "barcode_bias": [
+                -0.069428651602875077, 
+                0.050834566609855018, 
+                0.016051829764838654, 
+                -0.061821328783265343, 
+                -0.030406762846121083, 
+                -0.05247847558637378, 
+                0.023963718969981364, 
+                0.024590711578948758, 
+                -0.044208751542902949, 
+                -0.00068270735294608345, 
+                -0.029277983433700267, 
+                0.022089426192159443, 
+                -0.047409949386675802, 
+                -0.04016629393863317
+            ], 
+            "read_count": 6319014, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                5314570, 
+                656666, 
+                213657, 
+                91343, 
+                42778
+            ], 
+            "sample": "C190710041", 
+            "barcode_sequence": "TTGGAGTGTC", 
+            "Q20_bases": 932425981, 
+            "barcode_match_filtered": 3751, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                6137221, 
+                154679, 
+                27114
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_014"
+        }, 
+        "Q1J4H.IonXpress_015": {
+            "index": 15, 
+            "barcode_name": "IonXpress_015", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 959673702, 
+            "barcode_bias": [
+                -0.05930006576184807, 
+                -0.042145457327399286, 
+                -0.027894494829728351, 
+                0.029992782429168731, 
+                0.0019149138460765771, 
+                -0.014704171677300036, 
+                0.028361867399719343, 
+                -0.014962857309681967, 
+                0.0037181353051045614, 
+                0.00059619961052843353, 
+                -0.094241114113036345, 
+                0.034099375925636263, 
+                -0.043283215743076454, 
+                -0.027971488072414293
+            ], 
+            "read_count": 5822996, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                5127877, 
+                534691, 
+                114859, 
+                31201, 
+                14368
+            ], 
+            "sample": "C190710042", 
+            "barcode_sequence": "TCTAGAGGTC", 
+            "Q20_bases": 862507602, 
+            "barcode_match_filtered": 9206, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                5753896, 
+                66123, 
+                2977
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_015"
+        }, 
+        "Q1J4H.IonXpress_016": {
+            "index": 16, 
+            "barcode_name": "IonXpress_016", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 59808, 
+            "barcode_bias": [
+                -0.057625178779874532, 
+                -0.029771908462702574, 
+                -0.02999885773265755, 
+                -0.065131268985978846, 
+                -0.0026674031556307614, 
+                0.029811551113827869, 
+                0.021590700579019122, 
+                0.025380691450733978, 
+                -0.053587533615447665, 
+                0.0049581908707885623, 
+                -0.066657063479606926, 
+                -0.049813079637485547, 
+                0.013915369225727333, 
+                -0.030590619032199565
+            ], 
+            "read_count": 364, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                283, 
+                36, 
+                11, 
+                10, 
+                24
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCTGGATGAC", 
+            "Q20_bases": 54003, 
+            "barcode_match_filtered": 0, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                326, 
+                35, 
+                3
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_016"
+        }, 
+        "Q1J4H.IonXpress_017": {
+            "index": 17, 
+            "barcode_name": "IonXpress_017", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 22069, 
+            "barcode_bias": [
+                -0.045316446871653093, 
+                -0.026816427707672119, 
+                -0.010625982806630378, 
+                0.020831992045847059, 
+                0.026788546221099632, 
+                0.033369849816671689, 
+                0.017593714075475712, 
+                0.031231130141914434, 
+                -0.098105005974317122, 
+                -0.083695366869877719, 
+                -0.019548061555319459, 
+                0.011211619692018433, 
+                -0.031250951063894007, 
+                -0.042138927609381018
+            ], 
+            "read_count": 137, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                117, 
+                16, 
+                4, 
+                0, 
+                0
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TCTATTCGTC", 
+            "Q20_bases": 19899, 
+            "barcode_match_filtered": 1, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                135, 
+                2, 
+                0
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_017"
+        }, 
+        "Q1J4H.IonXpress_010": {
+            "index": 10, 
+            "barcode_name": "IonXpress_010", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 468733485, 
+            "barcode_bias": [
+                0.024742387250296097, 
+                -0.1312592964382959, 
+                -0.030242598856040106, 
+                -0.0088261959415663338, 
+                -0.0071155021393408758, 
+                0.013020470567231417, 
+                -0.065693972567211545, 
+                0.0078639544577311701, 
+                0.0083350185040993504, 
+                -0.01470694659125674, 
+                -0.060627973600639769, 
+                -0.067143402979404826, 
+                0.010775917372730993, 
+                -0.020465864639813834
+            ], 
+            "read_count": 3487219, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                2957063, 
+                379351, 
+                100807, 
+                36142, 
+                13856
+            ], 
+            "sample": "C190624069", 
+            "barcode_sequence": "CTGACCGAAC", 
+            "Q20_bases": 430658334, 
+            "barcode_match_filtered": 5917, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                3418027, 
+                62536, 
+                6656
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_010"
+        }, 
+        "Q1J4H.IonXpress_011": {
+            "index": 11, 
+            "barcode_name": "IonXpress_011", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 1010194304, 
+            "barcode_bias": [
+                -0.061928301176129442, 
+                -0.071323767343673294, 
+                -0.018610449770081496, 
+                0.020241642852019601, 
+                0.049762893146690211, 
+                0.02073562863100718, 
+                -0.077079155208873998, 
+                0.016035018034542669, 
+                -0.0025685040480483649, 
+                -0.010307877994357201, 
+                0.014804209186862996, 
+                -0.068003776648113232, 
+                -0.034014856849950446, 
+                -0.027872123814446891
+            ], 
+            "read_count": 6146050, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                5026015, 
+                787982, 
+                215119, 
+                80164, 
+                36770
+            ], 
+            "sample": "C190710038", 
+            "barcode_sequence": "TCCTCGAATC", 
+            "Q20_bases": 906273786, 
+            "barcode_match_filtered": 1742, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                6011379, 
+                121786, 
+                12885
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_011"
+        }, 
+        "Q1J4H.IonXpress_012": {
+            "index": 12, 
+            "barcode_name": "IonXpress_012", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 991563719, 
+            "barcode_bias": [
+                -0.061273011650107873, 
+                0.046088484468186856, 
+                0.016027516090694357, 
+                0.024248543260832461, 
+                0.0041637489778820211, 
+                -0.059106081992086661, 
+                0.019116286462082216, 
+                0.020338582483193111, 
+                -0.044501972948609893, 
+                -0.0059287241294154443, 
+                -0.074972613577599601, 
+                0.021736806948962802, 
+                -0.065988269804980848, 
+                -0.04960530670323799
+            ], 
+            "read_count": 5976932, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                5027744, 
+                626886, 
+                186159, 
+                73937, 
+                62206
+            ], 
+            "sample": "C190710039", 
+            "barcode_sequence": "TAGGTGGTTC", 
+            "Q20_bases": 893929038, 
+            "barcode_match_filtered": 5842, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                5807303, 
+                142333, 
+                27296
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_012"
+        }, 
+        "Q1J4H.IonXpress_013": {
+            "index": 13, 
+            "barcode_name": "IonXpress_013", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 1018834687, 
+            "barcode_bias": [
+                -0.056011456711895578, 
+                -0.038709448456771496, 
+                -0.015306186065438458, 
+                0.020683708572220055, 
+                -0.011740270524783899, 
+                0.029488010269844891, 
+                -0.053391525317300556, 
+                0.01536525351142746, 
+                -0.0026872295259934222, 
+                -0.0092660271604567464, 
+                -0.025947465069463781, 
+                -0.025841181194062573, 
+                0.019493491102835613, 
+                -0.045600951201459981
+            ], 
+            "read_count": 6243071, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                5609484, 
+                481657, 
+                110251, 
+                28551, 
+                13128
+            ], 
+            "sample": "C190710040", 
+            "barcode_sequence": "TCTAACGGAC", 
+            "Q20_bases": 911322826, 
+            "barcode_match_filtered": 13772, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                6170080, 
+                67178, 
+                5813
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_013"
+        }, 
+        "Q1J4H.IonXpress_018": {
+            "index": 18, 
+            "barcode_name": "IonXpress_018", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 96, 
+            "total_bases": 465598, 
+            "barcode_bias": [
+                -0.05395102245525895, 
+                0.040623053049742341, 
+                0.0066235670967911891, 
+                0.017239308242641683, 
+                -0.0054895401866005963, 
+                0.01737115999896777, 
+                -0.058093640440978422, 
+                -0.16529394588391372, 
+                -0.01263423737218319, 
+                -0.13338598825227993, 
+                0.03908189646792698, 
+                0.011655097879448798, 
+                -0.04517470285780445, 
+                -0.012723669440645799
+            ], 
+            "read_count": 2894, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                2093, 
+                509, 
+                180, 
+                69, 
+                43
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TTACAACCTC", 
+            "Q20_bases": 419205, 
+            "barcode_match_filtered": 2, 
+            "filtered": true, 
+            "barcode_errors_hist": [
+                2718, 
+                135, 
+                41
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_018"
+        }, 
+        "Q1J4H.IonXpress_019": {
+            "index": 19, 
+            "barcode_name": "IonXpress_019", 
+            "description": "", 
+            "reference": "hg19", 
+            "num_blocks_filtered": 0, 
+            "total_bases": 38915998, 
+            "barcode_bias": [
+                -0.034465882313841137, 
+                0.03775820649182466, 
+                0.012068907722894252, 
+                0.019610527249215221, 
+                -0.002693087384491455, 
+                -0.035978219183259684, 
+                0.015697876290346611, 
+                0.016521747751081613, 
+                -0.038340898906324514, 
+                -0.086176831694954562, 
+                -0.017791257695990052, 
+                -0.019348805051049682, 
+                0.021248035326033653, 
+                -0.047139419002966268
+            ], 
+            "read_count": 243134, 
+            "barcode_adapter": "GAT", 
+            "barcode_distance_hist": [
+                214430, 
+                18834, 
+                4861, 
+                1794, 
+                3215
+            ], 
+            "sample": "none", 
+            "barcode_sequence": "TTAGTCGGAC", 
+            "Q20_bases": 35543898, 
+            "barcode_match_filtered": 469, 
+            "filtered": false, 
+            "barcode_errors_hist": [
+                236128, 
+                6623, 
+                383
+            ], 
+            "platform_unit": "Unspecified/P1.1.17/IonXpress_019"
+        }
+    }, 
+    "datasets": [
+        {
+            "read_groups": [
+                "Q1J4H.nomatch"
+            ], 
+            "basecaller_bam": "nomatch_rawlib.basecaller.bam", 
+            "read_count": 2842934, 
+            "dataset_name": "none/No_barcode_match", 
+            "file_prefix": "nomatch_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_001"
+            ], 
+            "basecaller_bam": "IonXpress_001_rawlib.basecaller.bam", 
+            "read_count": 5909829, 
+            "dataset_name": "C190710043/IonXpress_001", 
+            "file_prefix": "IonXpress_001_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_002"
+            ], 
+            "basecaller_bam": "IonXpress_002_rawlib.basecaller.bam", 
+            "read_count": 548634, 
+            "dataset_name": "C171118005/IonXpress_002", 
+            "file_prefix": "IonXpress_002_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_003"
+            ], 
+            "basecaller_bam": "IonXpress_003_rawlib.basecaller.bam", 
+            "read_count": 2208, 
+            "dataset_name": "none/IonXpress_003", 
+            "file_prefix": "IonXpress_003_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_004"
+            ], 
+            "basecaller_bam": "IonXpress_004_rawlib.basecaller.bam", 
+            "read_count": 5559090, 
+            "dataset_name": "C190624034/IonXpress_004", 
+            "file_prefix": "IonXpress_004_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_005"
+            ], 
+            "basecaller_bam": "IonXpress_005_rawlib.basecaller.bam", 
+            "read_count": 9048758, 
+            "dataset_name": "C190715003/IonXpress_005", 
+            "file_prefix": "IonXpress_005_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_006"
+            ], 
+            "basecaller_bam": "IonXpress_006_rawlib.basecaller.bam", 
+            "read_count": 51857, 
+            "dataset_name": "none/IonXpress_006", 
+            "file_prefix": "IonXpress_006_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_007"
+            ], 
+            "basecaller_bam": "IonXpress_007_rawlib.basecaller.bam", 
+            "read_count": 3230963, 
+            "dataset_name": "C190624066/IonXpress_007", 
+            "file_prefix": "IonXpress_007_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_008"
+            ], 
+            "basecaller_bam": "IonXpress_008_rawlib.basecaller.bam", 
+            "read_count": 6267170, 
+            "dataset_name": "C190710035/IonXpress_008", 
+            "file_prefix": "IonXpress_008_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_009"
+            ], 
+            "basecaller_bam": "IonXpress_009_rawlib.basecaller.bam", 
+            "read_count": 886983, 
+            "dataset_name": "C190617001/IonXpress_009", 
+            "file_prefix": "IonXpress_009_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_010"
+            ], 
+            "basecaller_bam": "IonXpress_010_rawlib.basecaller.bam", 
+            "read_count": 3487219, 
+            "dataset_name": "C190624069/IonXpress_010", 
+            "file_prefix": "IonXpress_010_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_011"
+            ], 
+            "basecaller_bam": "IonXpress_011_rawlib.basecaller.bam", 
+            "read_count": 6146050, 
+            "dataset_name": "C190710038/IonXpress_011", 
+            "file_prefix": "IonXpress_011_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_012"
+            ], 
+            "basecaller_bam": "IonXpress_012_rawlib.basecaller.bam", 
+            "read_count": 5976932, 
+            "dataset_name": "C190710039/IonXpress_012", 
+            "file_prefix": "IonXpress_012_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_013"
+            ], 
+            "basecaller_bam": "IonXpress_013_rawlib.basecaller.bam", 
+            "read_count": 6243071, 
+            "dataset_name": "C190710040/IonXpress_013", 
+            "file_prefix": "IonXpress_013_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_014"
+            ], 
+            "basecaller_bam": "IonXpress_014_rawlib.basecaller.bam", 
+            "read_count": 6319014, 
+            "dataset_name": "C190710041/IonXpress_014", 
+            "file_prefix": "IonXpress_014_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_015"
+            ], 
+            "basecaller_bam": "IonXpress_015_rawlib.basecaller.bam", 
+            "read_count": 5822996, 
+            "dataset_name": "C190710042/IonXpress_015", 
+            "file_prefix": "IonXpress_015_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_016"
+            ], 
+            "basecaller_bam": "IonXpress_016_rawlib.basecaller.bam", 
+            "read_count": 364, 
+            "dataset_name": "none/IonXpress_016", 
+            "file_prefix": "IonXpress_016_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_017"
+            ], 
+            "basecaller_bam": "IonXpress_017_rawlib.basecaller.bam", 
+            "read_count": 137, 
+            "dataset_name": "none/IonXpress_017", 
+            "file_prefix": "IonXpress_017_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_018"
+            ], 
+            "basecaller_bam": "IonXpress_018_rawlib.basecaller.bam", 
+            "read_count": 2894, 
+            "dataset_name": "none/IonXpress_018", 
+            "file_prefix": "IonXpress_018_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_019"
+            ], 
+            "basecaller_bam": "IonXpress_019_rawlib.basecaller.bam", 
+            "read_count": 243134, 
+            "dataset_name": "none/IonXpress_019", 
+            "file_prefix": "IonXpress_019_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_020"
+            ], 
+            "basecaller_bam": "IonXpress_020_rawlib.basecaller.bam", 
+            "read_count": 15, 
+            "dataset_name": "none/IonXpress_020", 
+            "file_prefix": "IonXpress_020_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_021"
+            ], 
+            "basecaller_bam": "IonXpress_021_rawlib.basecaller.bam", 
+            "read_count": 56191, 
+            "dataset_name": "none/IonXpress_021", 
+            "file_prefix": "IonXpress_021_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_022"
+            ], 
+            "basecaller_bam": "IonXpress_022_rawlib.basecaller.bam", 
+            "read_count": 283, 
+            "dataset_name": "none/IonXpress_022", 
+            "file_prefix": "IonXpress_022_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_023"
+            ], 
+            "basecaller_bam": "IonXpress_023_rawlib.basecaller.bam", 
+            "read_count": 274875, 
+            "dataset_name": "none/IonXpress_023", 
+            "file_prefix": "IonXpress_023_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_024"
+            ], 
+            "basecaller_bam": "IonXpress_024_rawlib.basecaller.bam", 
+            "read_count": 3802024, 
+            "dataset_name": "C190624023/IonXpress_024", 
+            "file_prefix": "IonXpress_024_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_025"
+            ], 
+            "basecaller_bam": "IonXpress_025_rawlib.basecaller.bam", 
+            "read_count": 52304, 
+            "dataset_name": "none/IonXpress_025", 
+            "file_prefix": "IonXpress_025_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_026"
+            ], 
+            "basecaller_bam": "IonXpress_026_rawlib.basecaller.bam", 
+            "read_count": 85, 
+            "dataset_name": "none/IonXpress_026", 
+            "file_prefix": "IonXpress_026_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_027"
+            ], 
+            "basecaller_bam": "IonXpress_027_rawlib.basecaller.bam", 
+            "read_count": 3625572, 
+            "dataset_name": "C190624055/IonXpress_027", 
+            "file_prefix": "IonXpress_027_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_028"
+            ], 
+            "basecaller_bam": "IonXpress_028_rawlib.basecaller.bam", 
+            "read_count": 4609004, 
+            "dataset_name": "C190624056/IonXpress_028", 
+            "file_prefix": "IonXpress_028_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_029"
+            ], 
+            "basecaller_bam": "IonXpress_029_rawlib.basecaller.bam", 
+            "read_count": 3464977, 
+            "dataset_name": "C190624086/IonXpress_029", 
+            "file_prefix": "IonXpress_029_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_030"
+            ], 
+            "basecaller_bam": "IonXpress_030_rawlib.basecaller.bam", 
+            "read_count": 89, 
+            "dataset_name": "none/IonXpress_030", 
+            "file_prefix": "IonXpress_030_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_031"
+            ], 
+            "basecaller_bam": "IonXpress_031_rawlib.basecaller.bam", 
+            "read_count": 4141, 
+            "dataset_name": "none/IonXpress_031", 
+            "file_prefix": "IonXpress_031_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_032"
+            ], 
+            "basecaller_bam": "IonXpress_032_rawlib.basecaller.bam", 
+            "read_count": 3920539, 
+            "dataset_name": "C190624089/IonXpress_032", 
+            "file_prefix": "IonXpress_032_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_033"
+            ], 
+            "basecaller_bam": "IonXpress_033_rawlib.basecaller.bam", 
+            "read_count": 7, 
+            "dataset_name": "none/IonXpress_033", 
+            "file_prefix": "IonXpress_033_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_034"
+            ], 
+            "basecaller_bam": "IonXpress_034_rawlib.basecaller.bam", 
+            "read_count": 8, 
+            "dataset_name": "none/IonXpress_034", 
+            "file_prefix": "IonXpress_034_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_035"
+            ], 
+            "basecaller_bam": "IonXpress_035_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_035", 
+            "file_prefix": "IonXpress_035_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_036"
+            ], 
+            "basecaller_bam": "IonXpress_036_rawlib.basecaller.bam", 
+            "read_count": 3, 
+            "dataset_name": "none/IonXpress_036", 
+            "file_prefix": "IonXpress_036_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_037"
+            ], 
+            "basecaller_bam": "IonXpress_037_rawlib.basecaller.bam", 
+            "read_count": 2, 
+            "dataset_name": "none/IonXpress_037", 
+            "file_prefix": "IonXpress_037_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_038"
+            ], 
+            "basecaller_bam": "IonXpress_038_rawlib.basecaller.bam", 
+            "read_count": 26, 
+            "dataset_name": "none/IonXpress_038", 
+            "file_prefix": "IonXpress_038_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_039"
+            ], 
+            "basecaller_bam": "IonXpress_039_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_039", 
+            "file_prefix": "IonXpress_039_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_040"
+            ], 
+            "basecaller_bam": "IonXpress_040_rawlib.basecaller.bam", 
+            "read_count": 2, 
+            "dataset_name": "none/IonXpress_040", 
+            "file_prefix": "IonXpress_040_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_041"
+            ], 
+            "basecaller_bam": "IonXpress_041_rawlib.basecaller.bam", 
+            "read_count": 10, 
+            "dataset_name": "none/IonXpress_041", 
+            "file_prefix": "IonXpress_041_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_042"
+            ], 
+            "basecaller_bam": "IonXpress_042_rawlib.basecaller.bam", 
+            "read_count": 9, 
+            "dataset_name": "none/IonXpress_042", 
+            "file_prefix": "IonXpress_042_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_043"
+            ], 
+            "basecaller_bam": "IonXpress_043_rawlib.basecaller.bam", 
+            "read_count": 3, 
+            "dataset_name": "none/IonXpress_043", 
+            "file_prefix": "IonXpress_043_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_044"
+            ], 
+            "basecaller_bam": "IonXpress_044_rawlib.basecaller.bam", 
+            "read_count": 3, 
+            "dataset_name": "none/IonXpress_044", 
+            "file_prefix": "IonXpress_044_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_045"
+            ], 
+            "basecaller_bam": "IonXpress_045_rawlib.basecaller.bam", 
+            "read_count": 2, 
+            "dataset_name": "none/IonXpress_045", 
+            "file_prefix": "IonXpress_045_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_046"
+            ], 
+            "basecaller_bam": "IonXpress_046_rawlib.basecaller.bam", 
+            "read_count": 7, 
+            "dataset_name": "none/IonXpress_046", 
+            "file_prefix": "IonXpress_046_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_047"
+            ], 
+            "basecaller_bam": "IonXpress_047_rawlib.basecaller.bam", 
+            "read_count": 26, 
+            "dataset_name": "none/IonXpress_047", 
+            "file_prefix": "IonXpress_047_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_048"
+            ], 
+            "basecaller_bam": "IonXpress_048_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_048", 
+            "file_prefix": "IonXpress_048_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_049"
+            ], 
+            "basecaller_bam": "IonXpress_049_rawlib.basecaller.bam", 
+            "read_count": 44, 
+            "dataset_name": "none/IonXpress_049", 
+            "file_prefix": "IonXpress_049_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_050"
+            ], 
+            "basecaller_bam": "IonXpress_050_rawlib.basecaller.bam", 
+            "read_count": 51, 
+            "dataset_name": "none/IonXpress_050", 
+            "file_prefix": "IonXpress_050_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_051"
+            ], 
+            "basecaller_bam": "IonXpress_051_rawlib.basecaller.bam", 
+            "read_count": 25, 
+            "dataset_name": "none/IonXpress_051", 
+            "file_prefix": "IonXpress_051_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_052"
+            ], 
+            "basecaller_bam": "IonXpress_052_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_052", 
+            "file_prefix": "IonXpress_052_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_053"
+            ], 
+            "basecaller_bam": "IonXpress_053_rawlib.basecaller.bam", 
+            "read_count": 314, 
+            "dataset_name": "none/IonXpress_053", 
+            "file_prefix": "IonXpress_053_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_054"
+            ], 
+            "basecaller_bam": "IonXpress_054_rawlib.basecaller.bam", 
+            "read_count": 690, 
+            "dataset_name": "none/IonXpress_054", 
+            "file_prefix": "IonXpress_054_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_055"
+            ], 
+            "basecaller_bam": "IonXpress_055_rawlib.basecaller.bam", 
+            "read_count": 78, 
+            "dataset_name": "none/IonXpress_055", 
+            "file_prefix": "IonXpress_055_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_056"
+            ], 
+            "basecaller_bam": "IonXpress_056_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_056", 
+            "file_prefix": "IonXpress_056_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_057"
+            ], 
+            "basecaller_bam": "IonXpress_057_rawlib.basecaller.bam", 
+            "read_count": 17, 
+            "dataset_name": "none/IonXpress_057", 
+            "file_prefix": "IonXpress_057_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_058"
+            ], 
+            "basecaller_bam": "IonXpress_058_rawlib.basecaller.bam", 
+            "read_count": 50, 
+            "dataset_name": "none/IonXpress_058", 
+            "file_prefix": "IonXpress_058_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_059"
+            ], 
+            "basecaller_bam": "IonXpress_059_rawlib.basecaller.bam", 
+            "read_count": 280, 
+            "dataset_name": "none/IonXpress_059", 
+            "file_prefix": "IonXpress_059_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_060"
+            ], 
+            "basecaller_bam": "IonXpress_060_rawlib.basecaller.bam", 
+            "read_count": 104, 
+            "dataset_name": "none/IonXpress_060", 
+            "file_prefix": "IonXpress_060_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_061"
+            ], 
+            "basecaller_bam": "IonXpress_061_rawlib.basecaller.bam", 
+            "read_count": 5, 
+            "dataset_name": "none/IonXpress_061", 
+            "file_prefix": "IonXpress_061_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_062"
+            ], 
+            "basecaller_bam": "IonXpress_062_rawlib.basecaller.bam", 
+            "read_count": 1, 
+            "dataset_name": "none/IonXpress_062", 
+            "file_prefix": "IonXpress_062_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_063"
+            ], 
+            "basecaller_bam": "IonXpress_063_rawlib.basecaller.bam", 
+            "read_count": 5866182, 
+            "dataset_name": "N190716001/IonXpress_063", 
+            "file_prefix": "IonXpress_063_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_064"
+            ], 
+            "basecaller_bam": "IonXpress_064_rawlib.basecaller.bam", 
+            "read_count": 4896558, 
+            "dataset_name": "P190716002/IonXpress_064", 
+            "file_prefix": "IonXpress_064_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_065"
+            ], 
+            "basecaller_bam": "IonXpress_065_rawlib.basecaller.bam", 
+            "read_count": 1067, 
+            "dataset_name": "none/IonXpress_065", 
+            "file_prefix": "IonXpress_065_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_066"
+            ], 
+            "basecaller_bam": "IonXpress_066_rawlib.basecaller.bam", 
+            "read_count": 241, 
+            "dataset_name": "none/IonXpress_066", 
+            "file_prefix": "IonXpress_066_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_067"
+            ], 
+            "basecaller_bam": "IonXpress_067_rawlib.basecaller.bam", 
+            "read_count": 243, 
+            "dataset_name": "none/IonXpress_067", 
+            "file_prefix": "IonXpress_067_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_068"
+            ], 
+            "basecaller_bam": "IonXpress_068_rawlib.basecaller.bam", 
+            "read_count": 21, 
+            "dataset_name": "none/IonXpress_068", 
+            "file_prefix": "IonXpress_068_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_069"
+            ], 
+            "basecaller_bam": "IonXpress_069_rawlib.basecaller.bam", 
+            "read_count": 1472, 
+            "dataset_name": "none/IonXpress_069", 
+            "file_prefix": "IonXpress_069_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_070"
+            ], 
+            "basecaller_bam": "IonXpress_070_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_070", 
+            "file_prefix": "IonXpress_070_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_071"
+            ], 
+            "basecaller_bam": "IonXpress_071_rawlib.basecaller.bam", 
+            "read_count": 6, 
+            "dataset_name": "none/IonXpress_071", 
+            "file_prefix": "IonXpress_071_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_072"
+            ], 
+            "basecaller_bam": "IonXpress_072_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_072", 
+            "file_prefix": "IonXpress_072_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_073"
+            ], 
+            "basecaller_bam": "IonXpress_073_rawlib.basecaller.bam", 
+            "read_count": 4, 
+            "dataset_name": "none/IonXpress_073", 
+            "file_prefix": "IonXpress_073_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_074"
+            ], 
+            "basecaller_bam": "IonXpress_074_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_074", 
+            "file_prefix": "IonXpress_074_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_075"
+            ], 
+            "basecaller_bam": "IonXpress_075_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_075", 
+            "file_prefix": "IonXpress_075_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_076"
+            ], 
+            "basecaller_bam": "IonXpress_076_rawlib.basecaller.bam", 
+            "read_count": 2, 
+            "dataset_name": "none/IonXpress_076", 
+            "file_prefix": "IonXpress_076_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_077"
+            ], 
+            "basecaller_bam": "IonXpress_077_rawlib.basecaller.bam", 
+            "read_count": 4, 
+            "dataset_name": "none/IonXpress_077", 
+            "file_prefix": "IonXpress_077_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_078"
+            ], 
+            "basecaller_bam": "IonXpress_078_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_078", 
+            "file_prefix": "IonXpress_078_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_079"
+            ], 
+            "basecaller_bam": "IonXpress_079_rawlib.basecaller.bam", 
+            "read_count": 2, 
+            "dataset_name": "none/IonXpress_079", 
+            "file_prefix": "IonXpress_079_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_080"
+            ], 
+            "basecaller_bam": "IonXpress_080_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_080", 
+            "file_prefix": "IonXpress_080_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_081"
+            ], 
+            "basecaller_bam": "IonXpress_081_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_081", 
+            "file_prefix": "IonXpress_081_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_082"
+            ], 
+            "basecaller_bam": "IonXpress_082_rawlib.basecaller.bam", 
+            "read_count": 3, 
+            "dataset_name": "none/IonXpress_082", 
+            "file_prefix": "IonXpress_082_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_083"
+            ], 
+            "basecaller_bam": "IonXpress_083_rawlib.basecaller.bam", 
+            "read_count": 1, 
+            "dataset_name": "none/IonXpress_083", 
+            "file_prefix": "IonXpress_083_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_084"
+            ], 
+            "basecaller_bam": "IonXpress_084_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_084", 
+            "file_prefix": "IonXpress_084_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_085"
+            ], 
+            "basecaller_bam": "IonXpress_085_rawlib.basecaller.bam", 
+            "read_count": 1, 
+            "dataset_name": "none/IonXpress_085", 
+            "file_prefix": "IonXpress_085_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_086"
+            ], 
+            "basecaller_bam": "IonXpress_086_rawlib.basecaller.bam", 
+            "read_count": 2, 
+            "dataset_name": "none/IonXpress_086", 
+            "file_prefix": "IonXpress_086_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_087"
+            ], 
+            "basecaller_bam": "IonXpress_087_rawlib.basecaller.bam", 
+            "read_count": 44, 
+            "dataset_name": "none/IonXpress_087", 
+            "file_prefix": "IonXpress_087_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_088"
+            ], 
+            "basecaller_bam": "IonXpress_088_rawlib.basecaller.bam", 
+            "read_count": 1, 
+            "dataset_name": "none/IonXpress_088", 
+            "file_prefix": "IonXpress_088_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_089"
+            ], 
+            "basecaller_bam": "IonXpress_089_rawlib.basecaller.bam", 
+            "read_count": 2, 
+            "dataset_name": "none/IonXpress_089", 
+            "file_prefix": "IonXpress_089_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_090"
+            ], 
+            "basecaller_bam": "IonXpress_090_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_090", 
+            "file_prefix": "IonXpress_090_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_091"
+            ], 
+            "basecaller_bam": "IonXpress_091_rawlib.basecaller.bam", 
+            "read_count": 2, 
+            "dataset_name": "none/IonXpress_091", 
+            "file_prefix": "IonXpress_091_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_092"
+            ], 
+            "basecaller_bam": "IonXpress_092_rawlib.basecaller.bam", 
+            "read_count": 1, 
+            "dataset_name": "none/IonXpress_092", 
+            "file_prefix": "IonXpress_092_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_093"
+            ], 
+            "basecaller_bam": "IonXpress_093_rawlib.basecaller.bam", 
+            "read_count": 0, 
+            "dataset_name": "none/IonXpress_093", 
+            "file_prefix": "IonXpress_093_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_094"
+            ], 
+            "basecaller_bam": "IonXpress_094_rawlib.basecaller.bam", 
+            "read_count": 1, 
+            "dataset_name": "none/IonXpress_094", 
+            "file_prefix": "IonXpress_094_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_095"
+            ], 
+            "basecaller_bam": "IonXpress_095_rawlib.basecaller.bam", 
+            "read_count": 2, 
+            "dataset_name": "none/IonXpress_095", 
+            "file_prefix": "IonXpress_095_rawlib"
+        }, 
+        {
+            "read_groups": [
+                "Q1J4H.IonXpress_096"
+            ], 
+            "basecaller_bam": "IonXpress_096_rawlib.basecaller.bam", 
+            "read_count": 5, 
+            "dataset_name": "none/IonXpress_096", 
+            "file_prefix": "IonXpress_096_rawlib"
+        }
+    ], 
+    "barcode_filters": {
+        "classifier_cutoff": 1.0, 
+        "filter_errors_hist": 0.0, 
+        "classifier_mode": 2, 
+        "classifier_separation": 2.5, 
+        "filter_postpone": 1, 
+        "filter_frequency": 0.01, 
+        "filter_weight": 0.10000000000000001, 
+        "filter_minreads": 100000
+    }, 
+    "meta": {
+        "datasets_source": "/results/analysis/output/Home/Auto_sn247560022_SUZ-1104-SQR190717001_1235_2339/basecaller_results/block_X11592_Y1332/datasets_pipeline.json", 
+        "format_name": "Dataset Map", 
+        "generated_by": "BaseCaller", 
+        "format_version": "1.0", 
+        "creation_date": "2019-07-18T16:47:27"
+    }, 
+    "sequencing_center": "TorrentServer/suzhou01", 
+    "barcode_config": {
+        "barcode_id": "IonXpress"
+    }
+}

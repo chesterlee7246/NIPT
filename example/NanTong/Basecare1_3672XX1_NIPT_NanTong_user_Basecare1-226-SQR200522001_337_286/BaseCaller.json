@@ -1,0 +1,159 @@
+{
+    "Filtering": {
+        "BeadAdapters": {
+            "Adapter_0": {
+                "average_metric": 0.9722679288889476, 
+                "adapter_sequence": "ATCACCGACTGCCCATAGAGAGGCTGAGAC", 
+                "read_count": 91167208, 
+                "average_separation": 0.0, 
+                "num_decisions": 0
+            }
+        }, 
+        "LibraryReport": {
+            "filtered_polyclonal": 36828650, 
+            "filtered_primer_dimer": 61191, 
+            "filtered_low_quality": 6785923, 
+            "final_library_reads": 97278995
+        }, 
+        "BaseDetails": {
+            "adapter_trim": 4982457394, 
+            "quality_filter": 0, 
+            "high_residual": 0, 
+            "tag_trim": 0, 
+            "failed_keypass": 83498398, 
+            "initial": 25224494609, 
+            "extra_trim": 0, 
+            "final": 16060555575, 
+            "quality_trim": 2367609713, 
+            "short": 8009356
+        }, 
+        "ReadDetails": {
+            "tf": {
+                "bkgmodel_keypass": 0, 
+                "key": "ATCG", 
+                "short": 500, 
+                "failed_keypass": 41401, 
+                "zero": 0, 
+                "extra_trim": 0, 
+                "quality_trim": 0, 
+                "adapter_trim": 0, 
+                "polyclonal": 0, 
+                "quality_filter": 0, 
+                "high_residual": 0, 
+                "bkgmodel_high_ppf": 0, 
+                "bkgmodel_polyclonal": 0, 
+                "tag_trim": 0, 
+                "valid": 290687, 
+                "high_ppf": 0
+            }, 
+            "lib": {
+                "bkgmodel_keypass": 1304631, 
+                "key": "ATCG", 
+                "short": 822766, 
+                "failed_keypass": 427224, 
+                "zero": 0, 
+                "extra_trim": 0, 
+                "quality_trim": 3432409, 
+                "adapter_trim": 61191, 
+                "polyclonal": 0, 
+                "quality_filter": 0, 
+                "high_residual": 0, 
+                "bkgmodel_high_ppf": 798893, 
+                "bkgmodel_polyclonal": 36828650, 
+                "tag_trim": 0, 
+                "valid": 97278995, 
+                "high_ppf": 0
+            }
+        }, 
+        "qv_histogram": [
+            0, 
+            0, 
+            0, 
+            1777220, 
+            7596745, 
+            10550467, 
+            19683021, 
+            32384854, 
+            109202191, 
+            86806074, 
+            50198267, 
+            52312249, 
+            102826747, 
+            139523736, 
+            290892334, 
+            124889618, 
+            117052439, 
+            96536019, 
+            186694752, 
+            266961706, 
+            512025707, 
+            463911018, 
+            813692099, 
+            1373227186, 
+            1274019720, 
+            736620404, 
+            1114180289, 
+            2986865712, 
+            2965391068, 
+            1195508963, 
+            411968959, 
+            281262511, 
+            106612073, 
+            66218888, 
+            45793374, 
+            5719325, 
+            5025074, 
+            1320561, 
+            5304205, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "Phasing": {
+        "DRbyRegion": [
+            5.988899829389993e-06
+        ], 
+        "IEbyRegion": [
+            0.004349692724645138
+        ], 
+        "RegionRows": 1, 
+        "DR": 5.988899829389993e-06, 
+        "CFbyRegion": [
+            0.00331701198592782
+        ], 
+        "IE": 0.004349692724645138, 
+        "CF": 0.00331701198592782, 
+        "RegionCols": 1
+    }, 
+    "BeadSummary": {
+        "tf": {
+            "polyclonal": 0, 
+            "zero": 0, 
+            "short": 500, 
+            "valid": 290687, 
+            "key": "ATCG", 
+            "badKey": 41401, 
+            "highRes": 0, 
+            "highPPF": 0
+        }, 
+        "lib": {
+            "polyclonal": 36828650, 
+            "zero": 0, 
+            "short": 4316366, 
+            "valid": 97278995, 
+            "key": "TCAG", 
+            "badKey": 1731855, 
+            "highRes": 0, 
+            "highPPF": 798893
+        }
+    }
+}

@@ -1,0 +1,3 @@
+/home/jinzhujia582/upload_project/CNV/CHD/YCM/YCM/data/control/QH_058.chrY.bam
+/home/jinzhujia582/upload_project/CNV/CHD/YCM/YCM/data/control/SQR170122001_008_chrY.bam
+/home/jinzhujia582/upload_project/CNV/CHD/YCM/YCM/data/control/SQR160902001_014.chrY.bam
